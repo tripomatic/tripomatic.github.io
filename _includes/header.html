@@ -1,0 +1,10 @@
+<header class="site-header">
+
+    <div class="wrapper">
+      {%- assign default_paths = site.pages | map: "path" -%}
+      {%- assign page_paths = site.header_pages | default: default_paths -%}
+      {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img src="/assets/logo/500px_blank.png" height="44px"/></a>
+      <nav class="site-nav">Support Center</nav>
+    </div>
+  </header>
