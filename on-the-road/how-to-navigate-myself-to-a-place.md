@@ -4,6 +4,7 @@ title: How to navigate myself to a place?
 
 **iOS app **
 To navigate yourself to a place, tap the "Navigate" button in the upper left corner in the detail of the place.
+
 **Android app**
 To navigate yourself to a place, tap the "Navigate" button below the name of the place.
 <div><img src="/assets/3-sygic-travel/5-on-the-road/3-how-to-navigate-myself-to-a-place/navigate1.png" alt="" title="null" height=400 /></div>
