@@ -22,8 +22,8 @@ title: Tripomatic Support
 email: support@tripomatic.com
 description: >- # this means to ignore newlines until "baseurl:"
   Support articles and other documentation for Tripomatic users.
-baseurl: "/tripomatic.github.io/" # the subpath of your site, e.g. /blog
-url: "https://tripomatic.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://support.tripomatic.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sygictravel
 github_username:  lukasnevosad
 
