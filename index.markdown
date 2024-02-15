@@ -86,3 +86,16 @@ title: Sygic Travel Support
 ## Help us improve content around you
 - [Crowdsourcing]({% link help-us-improve-content-around-you/crowdsourcing.md %})
 
+## Travel guides
+- [Traveling to Cyprus]({% link guides/cyprus-travel-guide.md %})
+- [Traveling to Denmark]({% link guides/denmark-travel-guide.md %})
+- [Traveling to Estonia]({% link guides/estonia-travel-guide.md %})
+- [Traveling to Finland]({% link guides/finland-travel-guide.md %})
+- [Traveling to France]({% link guides/france-travel-guide.md %})
+- [Traveling to Germany]({% link guides/germany-travel-guide.md %})
+- [Traveling to Greece]({% link guides/greece-travel-guide.md %})
+- [Traveling to Hungary]({% link guides/hungary-travel-guide.md %})
+- [Traveling to Japan]({% link guides/japan-travel-guide.md %})
+- [Traveling to Latvia]({% link guides/latvia-travel-guide.md %})
+- [Traveling to Lithuania]({% link guides/lithuania-travel-guide.md %})
+- [Traveling to Sweden]({% link guides/sweden-travel-guide.md %})
