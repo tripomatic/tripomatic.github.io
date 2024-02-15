@@ -1,10 +1,22 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 title: Sygic Travel Support
 ---
+
+
+<div markdown="span" style="margin-bottom: 10px; margin-top: 10px; overflow: hidden; color: #31708f; background-color: #d9edf7; border-color: #bce8f1; padding: 15px; border: 1px solid transparent; border-radius: 4px;">
+**IMPORTANT ANNOUNCEMENT**
+<br />
+<br />
+Starting December 20, 2023, Sygic Travel has embarked on a new journey as an independent company, stepping away from our affiliation with Sygic a.s. In 2024, we're not only gaining full independence but also returning to our roots by adopting our original brand name, **Tripomatic**.
+<br />
+<br />
+This change marks the beginning of an exciting era. We're dedicated to maintaining the high-quality service you've come to expect from us, and we're gearing up to introduce significant enhancements and new features to our apps.
+<br />
+<br />
+We're eager to share more about what's ahead and confident you'll find these developments both positive and exciting. Stay connected for further updates.
+</div>
+
 
 ## How to plan a trip
 - [Planning a trip on the website]({% link how-to-plan-a-trip/planning-a-trip-on-the-website.md %})
