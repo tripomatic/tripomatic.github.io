@@ -16,11 +16,11 @@ Then choose your destination or search for it. Set the name and dates of your tr
 
 Once you create a trip, the home screen shows you the basic options for your trip.
 
-![](/assets/3-sygic-travel/1-how-to-plan-a-trip/3-planning-a-trip-in-the-android-app/android-triphome.png "null")
+![](/assets/3-sygic-travel/1-how-to-plan-a-trip/3-planning-a-trip-in-the-android-app/android-triphome2.png "null")
 
 Tap on Map to see the places in your destination. 
 
-![](/assets/3-sygic-travel/1-how-to-plan-a-trip/3-planning-a-trip-in-the-android-app/tpb_a_2.png "null")
+![](/assets/3-sygic-travel/1-how-to-plan-a-trip/3-planning-a-trip-in-the-android-app/tpb_a_22.png "null")
 
 If you tap on a place, you can see its name and by expanding the pop-up window, you can see the detail of the place. By tapping the white filter icon on the map, you can filter the places according to categories.
 
