@@ -1,20 +1,29 @@
 ---
 layout: home
-title: Sygic Travel Support
+title: Tripomatic Support
 ---
 
 
 <div markdown="span" style="margin-bottom: 10px; margin-top: 10px; overflow: hidden; color: #31708f; background-color: #d9edf7; border-color: #bce8f1; padding: 15px; border: 1px solid transparent; border-radius: 4px;">
-**IMPORTANT ANNOUNCEMENT**
+**SYGIC TRAVEL IS NOW TRIPOMATIC**
 <br />
 <br />
-Starting December 20, 2023, Sygic Travel has embarked on a new journey as an independent company, stepping away from our affiliation with Sygic a.s. In 2024, we're not only gaining full independence but also returning to our roots by adopting our original brand name, **Tripomatic**.
+As of November 11, 2024, Sygic Travel has embarked on a new journey as **Tripomatic**, stepping away from our affiliation with Sygic a.s.
 <br />
 <br />
 This change marks the beginning of an exciting era. We're dedicated to maintaining the high-quality service you've come to expect from us, and we're gearing up to introduce significant enhancements and new features to our apps.
 <br />
 <br />
-We're eager to share more about what's ahead and confident you'll find these developments both positive and exciting. Stay connected for further updates.
+**What is new**
+<br />
+<br />
+Sygic Travel app on your phone will automatically update with the name <strong>Tripomatic</strong> and a new icon. Web planner moves to a new home at <a href="https://maps.tripomatic.com">https://maps.tripomatic.com</a>.
+<br />
+<br />
+<img src="/assets/logo/rebranding.png" height="200px" style="display: block; margin: 0 auto;"/>
+<br />
+To access your trips and other data, you will need to sign in again, which will migrate your account from Sygic Travel to Tripomatic. Note that if you used Facebook to sign in with Sygic Travel, you will need to go through an extra step before you can sign in to your Tripomatic account.
+<br />
 </div>
 
 
@@ -36,34 +45,29 @@ We're eager to share more about what's ahead and confident you'll find these dev
 - [How does shared planning work?]({% link shared-planning/how-does-shared-planning-work.md %})
 
 ## On the road
-- [Can I send a route from Sygic Travel to Sygic GPS Navigation?]({% link on-the-road/can-i-send-a-route-to-sygic-gps-navigation.md %})
+- [Can I send a route from Tripomatic to Sygic GPS Navigation?]({% link on-the-road/can-i-send-a-route-to-sygic-gps-navigation.md %})
 - [How to navigate myself to a place?]({% link on-the-road/how-to-navigate-myself-to-a-place.md %})
 - [How to locate myself on the map using GPS?]({% link on-the-road/how-to-locate-myself-on-the-map-using-gps.md %})
 - [Downloading the PDF guide]({% link on-the-road/downloading-the-pdf-guide.md %})
 - [How to see my itinerary for the day on the map?]({% link on-the-road/how-to-see-my-itinerary-for-the-day-on-the-map.md %})
 
-## Sygic Travel Premium
-- [How can I restore my Sygic Travel Premium purchase?]({% link sygic-travel-premium/how-can-i-restore-my-sygic-travel-premium-purchase.md %})
-- [What advantages does Sygic Travel Premium give me?]({% link sygic-travel-premium/what-advantages-does-sygic-travel-premium-give-me.md %})
-- [Can I use Sygic Travel Premium on all my devices?]({% link sygic-travel-premium/can-i-use-sygic-travel-premium-on-all-my-devices.md %})
-- [How can I manage my Sygic Travel Premium subscription?]({% link sygic-travel-premium/how-can-i-manage-my-subscription.md %})
-- [Can ST Premium be shared via Family Sharing?]({% link sygic-travel-premium/family-sharing.md %})
-- [How to buy Sygic Travel Premium?]({% link sygic-travel-premium/how-to-buy-sygic-travel-premium.md %})
-
-## Linking with other Sygic apps
-- [Can I sign in using the same account as in the other Sygic apps?]({% link linking-with-other-sygic-apps/can-i-sign-in-using-the-same-account-as-in-the-other-sygic-apps.md %})
-- [Can I send my trip itinerary from Sygic Travel to Sygic GPS Navigation?]({% link linking-with-other-sygic-apps/can-i-send-my-trip-itinerary-from-sygic-travel-to-sygic-gps-navigation.md %})
-- [How can I change my preferred navigation app in Sygic Travel?]({% link linking-with-other-sygic-apps/how-can-i-change-my-preferred-navigation-app-in-sygic-travel.md %})
+## Tripomatic Premium
+- [How can I restore my Tripomatic Premium purchase?]({% link sygic-travel-premium/how-can-i-restore-my-sygic-travel-premium-purchase.md %})
+- [What advantages does Tripomatic Premium give me?]({% link sygic-travel-premium/what-advantages-does-sygic-travel-premium-give-me.md %})
+- [Can I use Tripomatic Premium on all my devices?]({% link sygic-travel-premium/can-i-use-sygic-travel-premium-on-all-my-devices.md %})
+- [How can I manage my Tripomatic Premium subscription?]({% link sygic-travel-premium/how-can-i-manage-my-subscription.md %})
+- [Can Tripomatic Premium be shared via Family Sharing?]({% link sygic-travel-premium/family-sharing.md %})
+- [How to buy Tripomatic Premium?]({% link sygic-travel-premium/how-to-buy-sygic-travel-premium.md %})
 
 ## General questions
 - [How can I change my avatar?]({% link general-questions/how-can-i-change-my-avatar.md %})
 - [How do I synchronize my trip across devices?]({% link general-questions/how-do-i-synchronize-my-trip-across-devices.md %})
 - [How can I add my flight information to my trip?]({% link general-questions/how-can-i-add-my-flight-information-to-my-trip.md %})
-- [Does Sygic Travel support public transport?]({% link general-questions/does-sygic-travel-support-public-transport.md %})
+- [Does Tripomatic support public transport?]({% link general-questions/does-sygic-travel-support-public-transport.md %})
 - [How to change the language, currency and units?]({% link general-questions/how-to-change-the-language-currency-and-units-in-the-app.md %})
-- [Can I import files into Sygic Travel?]({% link general-questions/can-i-import-files-into-sygic-travel.md %})
+- [Can I import files into Tripomatic?]({% link general-questions/can-i-import-files-into-sygic-travel.md %})
 - [How can I change my email address or password?]({% link general-questions/how-can-i-change-my-email-address-or-password.md %})
-- [How can I add my own place to Sygic Travel?]({% link general-questions/how-can-i-add-my-own-place-to-sygic-travel.md %})
+- [How can I add my own place to Tripomatic?]({% link general-questions/how-can-i-add-my-own-place-to-sygic-travel.md %})
 
 ## Help us improve content around you
 - [Crowdsourcing]({% link help-us-improve-content-around-you/crowdsourcing.md %})
