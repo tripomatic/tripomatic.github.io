@@ -34,6 +34,6 @@ If you don’t migrate, you may lose access to your trips, favorites, and other 
 
 All purchases remain valid and are not affected by the account migration. Sygic Travel Premium has been renamed to Tripomatic Premium and will continue to work as usual.
 
-## Where do I change my e-mail or password?
+## Where Do I Change My E-mail or Password?
 
 After your Tripomatic account is created, you manage your account settings on the [Customer portal](https://customer.tripomatic.com/).
