@@ -2,7 +2,7 @@
 title: Traveling to Latvia
 ---
 
-Latvia, nestled in the heart of the Baltic region, is a country rich in cultural heritage and natural beauty. From the Art Nouveau architecture of Riga, its vibrant capital, to the pristine beaches of the Baltic Sea and the dense forests that cover much of the country, Latvia offers a diverse range of experiences. The country is also known for its traditional music and festivals, hearty cuisine, and a history that spans back to medieval times. To start planning your trip, explore [plan your trip to Latvia](https://maps.sygictravel.com) and test your knowledge with a [travel to Latvia quiz](https://faabul.com/en/l/Latvia-Fun-Facts). For more information, visit the official tourism website: [latvia.travel](https://www.latvia.travel/en).
+Latvia, nestled in the heart of the Baltic region, is a country rich in cultural heritage and natural beauty. From the Art Nouveau architecture of Riga, its vibrant capital, to the pristine beaches of the Baltic Sea and the dense forests that cover much of the country, Latvia offers a diverse range of experiences. The country is also known for its traditional music and festivals, hearty cuisine, and a history that spans back to medieval times. To start planning your trip, explore [plan your trip to Latvia](https://maps.tripomatic.com) and test your knowledge with a [travel to Latvia quiz](https://faabul.com/en/l/Latvia-Fun-Facts). For more information, visit the official tourism website: [latvia.travel](https://www.latvia.travel/en).
 
 ## Transportation
 

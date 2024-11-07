@@ -1,8 +1,8 @@
 ---
-title: Can I send a route from Sygic Travel to Sygic GPS Navigation?
+title: Can I send a route from Tripomatic to Sygic GPS Navigation?
 ---
 
-Yes, visit maps.sygic.com and click the blue arrow icon.
+Yes, visit maps.tripomatic.com and click the blue arrow icon.
 
 ![](/assets/3-sygic-travel/5-on-the-road/5-can-i-send-a-route-to-sygic-gps-navigation/route.png "null")
 

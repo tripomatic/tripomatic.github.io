@@ -2,7 +2,7 @@
 title: Traveling to Sweden
 ---
 
-Sweden, known for its breathtaking natural landscapes, innovative design, and rich cultural history, is a country that offers an array of experiences for every type of traveler. From the cosmopolitan allure of Stockholm to the northern lights in Lapland, Sweden is a land of contrasts. The country is also celebrated for its culinary revolution, emphasizing local ingredients and traditional dishes with a modern twist. To start planning your visit, check out [plan your trip to Sweden](https://maps.sygictravel.com) and take a [travel to Sweden quiz](https://faabul.com/en/l/Sweden-Fun-Facts) to learn some interesting facts about the country. For more information, visit the official tourism website: [visitsweden.com](https://www.visitsweden.com/).
+Sweden, known for its breathtaking natural landscapes, innovative design, and rich cultural history, is a country that offers an array of experiences for every type of traveler. From the cosmopolitan allure of Stockholm to the northern lights in Lapland, Sweden is a land of contrasts. The country is also celebrated for its culinary revolution, emphasizing local ingredients and traditional dishes with a modern twist. To start planning your visit, check out [plan your trip to Sweden](https://maps.tripomatic.com) and take a [travel to Sweden quiz](https://faabul.com/en/l/Sweden-Fun-Facts) to learn some interesting facts about the country. For more information, visit the official tourism website: [visitsweden.com](https://www.visitsweden.com/).
 
 ## Transportation
 

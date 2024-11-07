@@ -2,7 +2,7 @@
 title: Traveling to Greece
 ---
 
-Greece is a country where ancient history meets stunning landscapes and rich culinary traditions. Known for its archaeological sites, beautiful islands, and vibrant cities, Greece offers a journey through time from the Acropolis of Athens to the serene beaches of Santorini. The country's cuisine, with its emphasis on fresh ingredients and traditional dishes, is a delight for food lovers. For planning your visit, [plan your trip to Greece](https://maps.sygictravel.com) and enhance your knowledge about the country with a [travel to Greece quiz](https://faabul.com/en/l/Greece-Fun-Facts). For more detailed information, visit the [official tourism website](https://www.visitgreece.gr).
+Greece is a country where ancient history meets stunning landscapes and rich culinary traditions. Known for its archaeological sites, beautiful islands, and vibrant cities, Greece offers a journey through time from the Acropolis of Athens to the serene beaches of Santorini. The country's cuisine, with its emphasis on fresh ingredients and traditional dishes, is a delight for food lovers. For planning your visit, [plan your trip to Greece](https://maps.tripomatic.com) and enhance your knowledge about the country with a [travel to Greece quiz](https://faabul.com/en/l/Greece-Fun-Facts). For more detailed information, visit the [official tourism website](https://www.visitgreece.gr).
 
 ## Transportation
 

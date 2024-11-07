@@ -10,10 +10,10 @@ To change the currency and units, sign in, then click your avatar in the upper r
 # iOS
 
 The language of the app depends on the language of your phone, so if you change it, the language of the app will change too.
-To change the currency and units, open your device's Settings, then scroll down to find the Sygic Travel app. Tap it and you will be able to change them.
+To change the currency and units, open your device's Settings, then scroll down to find the Tripomatic app. Tap it and you will be able to change them.
 
 # Android
 
 The language of the app depends on the language of your phone, so if you change it, the language of the app will change too.
 
-To change the currency and units, open the Sygic Travel app and go to the main screen of the app. Then, swipe from the left to open the main menu and go to Settings.
+To change the currency and units, open the Tripomatic app and go to the main screen of the app. Then, swipe from the left to open the main menu and go to Settings.

@@ -2,7 +2,7 @@
 title: Traveling to France
 ---
 
-France, known for its unparalleled cultural heritage, exquisite cuisine, and breathtaking landscapes, stands as one of the world's most popular travel destinations. From the iconic Eiffel Tower in Paris to the lavender fields of Provence and the glamorous beaches of the French Riviera, France offers diverse experiences that cater to all tastes. The country's rich history is evident in its castles, museums, and historical sites, while its commitment to art and fashion sets trends globally. To start planning your visit, explore [plan your trip to France](https://maps.sygictravel.com) and test your knowledge with a [travel to France quiz](https://faabul.com/en/l/FunFactsFrance). For more detailed information, visit the [official tourism website](https://www.france.fr/en).
+France, known for its unparalleled cultural heritage, exquisite cuisine, and breathtaking landscapes, stands as one of the world's most popular travel destinations. From the iconic Eiffel Tower in Paris to the lavender fields of Provence and the glamorous beaches of the French Riviera, France offers diverse experiences that cater to all tastes. The country's rich history is evident in its castles, museums, and historical sites, while its commitment to art and fashion sets trends globally. To start planning your visit, explore [plan your trip to France](https://maps.tripomatic.com) and test your knowledge with a [travel to France quiz](https://faabul.com/en/l/FunFactsFrance). For more detailed information, visit the [official tourism website](https://www.france.fr/en).
 
 ## Transportation
 

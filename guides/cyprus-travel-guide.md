@@ -1,6 +1,6 @@
 # Traveling to Cyprus
 
-Cyprus, a jewel in the Mediterranean, combines stunning beaches, rich historical sites, and cultural depth to offer a unique travel experience. Visitors can explore ancient ruins, enjoy the vibrant nightlife, and relax on beautiful beaches. The island's cuisine, a blend of Greek and Turkish influences, promises a delightful culinary journey. For further exploration, [plan your trip to Cyprus](https://maps.sygictravel.com) and test your knowledge with a [travel to Cyprus quiz](https://faabul.com/en/l/cyprus-random-facts-series). The [official tourism website](https://www.visitcyprus.com/) provides additional resources for travelers.
+Cyprus, a jewel in the Mediterranean, combines stunning beaches, rich historical sites, and cultural depth to offer a unique travel experience. Visitors can explore ancient ruins, enjoy the vibrant nightlife, and relax on beautiful beaches. The island's cuisine, a blend of Greek and Turkish influences, promises a delightful culinary journey. For further exploration, [plan your trip to Cyprus](https://maps.tripomatic.com) and test your knowledge with a [travel to Cyprus quiz](https://faabul.com/en/l/cyprus-random-facts-series). The [official tourism website](https://www.visitcyprus.com/) provides additional resources for travelers.
 
 ## Transportation
 

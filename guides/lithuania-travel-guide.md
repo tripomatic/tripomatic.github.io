@@ -2,7 +2,7 @@
 title: Traveling to Lithuania
 ---
 
-Lithuania, the southernmost of the Baltic states, offers travelers a rich tapestry of cultural and natural beauty. From the cobblestone charm of Vilnius' Old Town, a UNESCO World Heritage site, to the pristine beaches of the Curonian Spit and the dense forests that cover the country, Lithuania is a haven for history buffs, nature lovers, and those seeking adventure. The country's deep-rooted traditions, vibrant festivals, and delicious cuisine provide a unique glimpse into Lithuanian life. To begin planning your journey, [plan your trip to Lithuania](https://maps.sygictravel.com) and take the [travel to Lithuania quiz](https://faabul.com/en/l/Lithuania-Fun-Facts) to learn about fascinating aspects of the country. For more detailed information, visit the official tourism website: [lithuania.travel](https://www.lithuania.travel/en).
+Lithuania, the southernmost of the Baltic states, offers travelers a rich tapestry of cultural and natural beauty. From the cobblestone charm of Vilnius' Old Town, a UNESCO World Heritage site, to the pristine beaches of the Curonian Spit and the dense forests that cover the country, Lithuania is a haven for history buffs, nature lovers, and those seeking adventure. The country's deep-rooted traditions, vibrant festivals, and delicious cuisine provide a unique glimpse into Lithuanian life. To begin planning your journey, [plan your trip to Lithuania](https://maps.tripomatic.com) and take the [travel to Lithuania quiz](https://faabul.com/en/l/Lithuania-Fun-Facts) to learn about fascinating aspects of the country. For more detailed information, visit the official tourism website: [lithuania.travel](https://www.lithuania.travel/en).
 
 ## Transportation
 

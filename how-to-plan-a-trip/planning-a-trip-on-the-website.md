@@ -2,7 +2,7 @@
 title: Planning a trip on the website
 ---
 
-Welcome to [Sygic Maps web planner](https://maps.sygic.com). The website allows you to discover cool places around the world and create awesome travel itineraries.
+Welcome to [Tripomatic](https://maps.tripomatic.com). The website allows you to discover cool places around the world and create awesome travel itineraries.
 
 ![](/assets/3-sygic-travel/1-how-to-plan-a-trip/1-planning-a-trip-on-the-website/web1.png "null")
 
@@ -51,16 +51,16 @@ You can switch between days in your itinerary in the menu above the map. You can
 
 ![](/assets/3-sygic-travel/1-how-to-plan-a-trip/1-planning-a-trip-on-the-website/web8.png "null")
 
-When you add a place, Sygic Travel automatically sets walking or driving as a mode of transport. You can change this by clicking the gear button. You can also set time, duration and add a note to it.
+When you add a place, Tripomatic automatically sets walking or driving as a mode of transport. You can change this by clicking the gear button. You can also set time, duration and add a note to it.
 
 ![](/assets/3-sygic-travel/1-how-to-plan-a-trip/1-planning-a-trip-on-the-website/web9.png "null")
 
-Sygic Travel recalculates the travel estimate for the day but it does not include transits with unknown duration. ## Save & export Save your trip by creating an account, or by logging in if you already have one. You will be able to access your trip later and each change you make to your trip will be automatically synced across all your devices.
+Tripomatic recalculates the travel estimate for the day but it does not include transits with unknown duration. ## Save & export Save your trip by creating an account, or by logging in if you already have one. You will be able to access your trip later and each change you make to your trip will be automatically synced across all your devices.
 
 After you're done with adding activities via our website, you **download a PDF guide** of your trip. Click on the gear button next to the name of your trip and click "Print or download". You can also export your itinerary to a KML or GPX file.
 
 ![](/assets/3-sygic-travel/1-how-to-plan-a-trip/1-planning-a-trip-on-the-website/web10.png "null")
 
-## Download the Sygic Travel app 
+## Download the Tripomatic app 
 
-If you have a smartphone, don’t forget to download the Sygic Travel mobile app before you set off. Once you sign in, it will automatically sync your trips. Sygic Travel Premium unlocks the full potential of Sygic Travel. It allows you to access your trips in the mobile app and edit them even on the road. In addition, you can download maps for offline use and access your itineraries even without Internet connection.
+If you have a smartphone, don’t forget to download the Tripomatic mobile app before you set off. Once you sign in, it will automatically sync your trips. tripomatic Premium unlocks the full potential of Tripomatic. It allows you to access your trips in the mobile app and edit them even on the road. In addition, you can download maps for offline use and access your itineraries even without Internet connection.
