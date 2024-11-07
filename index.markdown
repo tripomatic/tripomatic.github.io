@@ -17,15 +17,20 @@ This change marks the beginning of an exciting era. We're dedicated to maintaini
 **What is new**
 <br />
 <br />
-Sygic Travel app on your phone will automatically update with the name <strong>Tripomatic</strong> and a new icon. Web planner moves to a new home at <a href="https://maps.tripomatic.com">https://maps.tripomatic.com</a>.
+The Sygic Travel app on your phone will automatically update with the name <strong>Tripomatic</strong> and a new icon. The web planner moves to a new home at <a href="https://maps.tripomatic.com">https://maps.tripomatic.com</a>.
 <br />
 <br />
-<img src="/assets/logo/rebranding.png" height="200px" style="display: block; margin: 0 auto;"/>
+<img src="/assets/logo/rebranding.png" height="200px" style="display: block; margin: 0 auto;" />
 <br />
-To access your trips and other data, you will need to sign in again, which will migrate your account from Sygic Travel to Tripomatic. Note that if you used Facebook to sign in with Sygic Travel, you will need to go through an extra step before you can sign in to your Tripomatic account.
-<br />
+To access your trips and other data, you will need to sign in again, which will [migrate your account]({% link rebranding/migrate-sygic-travel-account.md %}) from Sygic Travel to Tripomatic.
 </div>
 
+<br />
+
+## About rebranding to Tripomatic
+- [How to migrate my Sygic Travel account?]({% link rebranding/migrate-sygic-travel-account.md %})
+
+<br />
 
 ## How to plan a trip
 - [Planning a trip on the website]({% link how-to-plan-a-trip/planning-a-trip-on-the-website.md %})
@@ -63,7 +68,6 @@ To access your trips and other data, you will need to sign in again, which will 
 - [How can I change my avatar?]({% link general-questions/how-can-i-change-my-avatar.md %})
 - [How do I synchronize my trip across devices?]({% link general-questions/how-do-i-synchronize-my-trip-across-devices.md %})
 - [How can I add my flight information to my trip?]({% link general-questions/how-can-i-add-my-flight-information-to-my-trip.md %})
-- [Does Tripomatic support public transport?]({% link general-questions/does-sygic-travel-support-public-transport.md %})
 - [How to change the language, currency and units?]({% link general-questions/how-to-change-the-language-currency-and-units-in-the-app.md %})
 - [Can I import files into Tripomatic?]({% link general-questions/can-i-import-files-into-sygic-travel.md %})
 - [How can I change my email address or password?]({% link general-questions/how-can-i-change-my-email-address-or-password.md %})
