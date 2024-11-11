@@ -1,5 +1,5 @@
 ---
-title: How can I add my own place to Sygic Travel?
+title: How can I add my own place to Tripomatic?
 ---
 
 # Website

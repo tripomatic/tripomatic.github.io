@@ -6,7 +6,7 @@ Is there a place in your neighborhood with wrong opening hours? Did you visit a 
 
 # On the website
 
-Working with the editing tool is easy. Go to our [website](http://www.maps.sygic.com), find the place in question and click on the little pencil next to the information you want to update. You can update the name, opening hours, add links, and much more.
+Working with the editing tool is easy. Go to our [website](http://maps.tripomatic.com), find the place in question and click on the little pencil next to the information you want to update. You can update the name, opening hours, add links, and much more.
 
 Is the place missing additional information altogether? Just click on “Add missing information...” If there is something else wrong with the place, click on “Report issue” and we will have a look at it.
 To add a new public place, click its locaton and "Suggest public place" in the left sidebar.
