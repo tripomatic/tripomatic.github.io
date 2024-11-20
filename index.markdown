@@ -17,6 +17,13 @@ This change marks the beginning of an exciting era. We're dedicated to maintaini
 We're eager to share more about what's ahead and confident you'll find these developments both positive and exciting. Stay connected for further updates.
 </div>
 
+<br />
+
+## About rebranding to Tripomatic
+- [Why do I need to sign in again?]({% link rebranding/migrate-sygic-travel-account.md %})
+- [How to migrate from Sign in with Facebook]({% link rebranding/migrating-facebook-account.md %})
+
+<br />
 
 ## How to plan a trip
 - [Planning a trip on the website]({% link how-to-plan-a-trip/planning-a-trip-on-the-website.md %})
