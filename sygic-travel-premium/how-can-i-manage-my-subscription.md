@@ -1,5 +1,5 @@
 ---
-title: How can I manage my Sygic Travel Premium subscription?
+title: How can I manage my Tripomatic Premium subscription?
 ---
 
 # iOS app
@@ -26,10 +26,10 @@ For more information, please visit [Google's help page](https://support.google.c
 
 # Website
 
-If you purchased a subscription on our website, you can manage it via My Account at maps.sygic.com.
+If you purchased a subscription on our website, you can manage it via My Account at maps.tripomatic.com.
 
 1. Click your avatar in the upper right corner and choose My Account.
-2. Switch to Sygic Travel Premium tab.
+2. Switch to Tripomatic Premium tab.
 3. Click on Manage your subscription.
 4. Follow the instructions you receive in your inbox.
    

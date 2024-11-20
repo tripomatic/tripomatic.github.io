@@ -2,7 +2,7 @@
 title: Planning a trip in the iOS app
 ---
 
-Welcome to Sygic Travel. Sygic Travel allows you to discover cool places around the world and create awesome travel itineraries with our [iOS app](https://itunes.apple.com/us/app/sygic-travel-trip-planner/id519058033?mt=8). 
+Welcome to Tripomatic. Tripomatic allows you to discover cool places around the world and create awesome travel itineraries with our [iOS app](https://itunes.apple.com/us/app/sygic-travel-trip-planner/id519058033?mt=8). 
 
 ## Creating a trip
 

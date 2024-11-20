@@ -2,7 +2,7 @@
 title: Traveling to Germany
 ---
 
-Germany offers a unique blend of historical landmarks, modern art, and vibrant culture. It's a country where you can explore castles, enjoy the natural beauty of the Black Forest, and participate in world-famous festivals like Oktoberfest. The blend of old-world charm and contemporary life makes Germany a fascinating destination for travelers. [Plan your trip](https://maps.sygictravel.com) to Germany and test your knowledge about Germany with a [Travel to Germany Quiz](https://faabul.com/en/l/Germany-Fun-Facts) at faabul.com. For more information, visit the official tourism website at [www.germany.travel](http://www.germany.travel).
+Germany offers a unique blend of historical landmarks, modern art, and vibrant culture. It's a country where you can explore castles, enjoy the natural beauty of the Black Forest, and participate in world-famous festivals like Oktoberfest. The blend of old-world charm and contemporary life makes Germany a fascinating destination for travelers. [Plan your trip](https://maps.tripomatic.com) to Germany and test your knowledge about Germany with a [Travel to Germany Quiz](https://faabul.com/en/l/Germany-Fun-Facts) at faabul.com. For more information, visit the official tourism website at [www.germany.travel](http://www.germany.travel).
 
 ## Transportation
 

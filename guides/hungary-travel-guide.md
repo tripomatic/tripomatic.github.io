@@ -2,7 +2,7 @@
 title: Traveling to Hungary
 ---
 
-Hungary is a country rich in history, culture, and natural beauty, making it a compelling destination for travelers. From the architectural wonders of Budapest, including the Parliament Building and Buda Castle, to the serene landscapes of Lake Balaton and the unique thermal baths scattered throughout the country, Hungary offers a diverse experience. The nation's cuisine, including dishes like goulash and lángos, provides a hearty exploration of local flavors. [Plan your trip](https://maps.sygictravel.com) to Hungary and test your knowledge about Hungary with a [travel quiz](https://faabul.com/en/l/Hungary-Fun-Facts). For more information, visit the official tourism website at [www.gotohungary.com](https://www.gotohungary.com).
+Hungary is a country rich in history, culture, and natural beauty, making it a compelling destination for travelers. From the architectural wonders of Budapest, including the Parliament Building and Buda Castle, to the serene landscapes of Lake Balaton and the unique thermal baths scattered throughout the country, Hungary offers a diverse experience. The nation's cuisine, including dishes like goulash and lángos, provides a hearty exploration of local flavors. [Plan your trip](https://maps.tripomatic.com) to Hungary and test your knowledge about Hungary with a [travel quiz](https://faabul.com/en/l/Hungary-Fun-Facts). For more information, visit the official tourism website at [www.gotohungary.com](https://www.gotohungary.com).
 
 ## Transportation
 

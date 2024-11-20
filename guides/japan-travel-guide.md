@@ -2,7 +2,7 @@
 title: Traveling to Japan
 ---
 
-Japan is a country where ancient traditions blend seamlessly with modern life, offering a unique and captivating experience for visitors. From the bustling streets of Tokyo to the tranquil temples of Kyoto, Japan presents a diverse array of attractions including historic sites, cutting-edge technology, and natural beauty. The country is renowned for its culinary excellence, ranging from street food to high-end sushi. For planning your trip, [plan your trip to Japan](https://maps.sygictravel.com) and test your knowledge with a [travel to Japan quiz](https://faabul.com/en/l/Japan---Fun-Facts). Visit the official tourism website for more details: [japan.travel](https://www.japan.travel/en/).
+Japan is a country where ancient traditions blend seamlessly with modern life, offering a unique and captivating experience for visitors. From the bustling streets of Tokyo to the tranquil temples of Kyoto, Japan presents a diverse array of attractions including historic sites, cutting-edge technology, and natural beauty. The country is renowned for its culinary excellence, ranging from street food to high-end sushi. For planning your trip, [plan your trip to Japan](https://maps.tripomatic.com) and test your knowledge with a [travel to Japan quiz](https://faabul.com/en/l/Japan---Fun-Facts). Visit the official tourism website for more details: [japan.travel](https://www.japan.travel/en/).
 
 ## Transportation
 

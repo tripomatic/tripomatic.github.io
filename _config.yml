@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sygic Travel Support
-email: support@sygictravel.com
+title: Tripomatic Support
+email: support@tripomatic.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Support articles and other documentation for Sygic Travel users.
+  Support articles and other documentation for Tripomatic users.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://support.tripomatic.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sygictravel
