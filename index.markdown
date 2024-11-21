@@ -30,6 +30,7 @@ To access your trips and other data, you will need to sign in again, which will 
 ## About rebranding to Tripomatic
 - [Why do I need to sign in again?]({% link rebranding/migrate-sygic-travel-account.md %})
 - [How to migrate from Sign in with Facebook]({% link rebranding/migrating-facebook-account.md %})
+- [Account migration FAQ]({% link rebranding/account-migration-faq.md %})
 
 <br />
 
