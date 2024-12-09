@@ -18,7 +18,7 @@ Your Sygic account will remain unaffected and will continue to work with Sygic a
 
 ### When Do I Need to Migrate My Account?
 
-You must migrate your account **by December 15, 2024**. After this date, we cannot guarantee access to trips and other data created with the Sygic account.
+You must migrate your account **by December 31, 2024**. After this date, we cannot guarantee access to trips and other data created with the Sygic account.
 
 ### What If I Don’t Migrate My Account?
 
