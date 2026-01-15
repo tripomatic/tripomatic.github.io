@@ -25,21 +25,15 @@ While most features work the same way in Tripomatic 26, some have changed. Here'
 - You must specify when you want to depart
 - Routes are based on actual transit schedules
 - You'll see detailed information including line numbers, colors, and platform numbers
-- Coverage depends on the availability of transit data in your location (powered by HERE Technologies)
+- Coverage depends on the availability of transit data in your location
 
 ### Trip Collaboration
 
 **Previous version:** When you shared a trip, collaborators were saved with the trip.
 
-**Tripomatic 26:** Collaboration still works the same way, but **collaborators are not migrated** from the previous version.
+**Tripomatic 26:** Collaboration still works the same way, but **collaborators are not transferred** from the previous version.
 
 **What this means:**
-- Your trips are migrated with all their content
-- Sharing relationships are not migrated
-- You need to re-invite collaborators after migrating
-
-### Removed Features
-
-The following features are no longer available in Tripomatic 26:
-
-- **360-degree VR videos** - These are no longer included in the app
+- Your trips are transferred with all their content
+- Sharing relationships are not transferred
+- You need to re-invite collaborators after moving to Tripomatic 26

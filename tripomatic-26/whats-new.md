@@ -4,26 +4,37 @@ title: What's New in Tripomatic 26
 
 Tripomatic 26 introduces several new features and improvements to help you plan and enjoy your trips.
 
-### New Routing Modes
+### Plan Before You Commit
 
-In addition to walking, car, and public transit, Tripomatic 26 now supports:
+Save places you're considering without adding them to your itinerary. This is perfect for deciding between options - you can collect interesting places and decide later which ones to include in your trip.
+
+### Bike and Public Transit
+
+New routing modes have been added to help you get around:
 
 - **Bicycle** - Get cycling routes between places in your itinerary
 - **Scooter** - Perfect for exploring cities with rental scooters
 - **Taxi** - Plan routes when you prefer to take a cab
+- **Enhanced public transit** - See actual departure and arrival times based on transit schedules, with detailed information including line numbers, colors, platform numbers, and step-by-step directions
 
-### Enhanced Public Transit
+To use public transit routing, you need to set a departure time for your journey. The app will then show you the best routes based on actual transit schedules.
 
-Public transit routing has been significantly improved:
+### Smart Cost Tracking
 
-- **Real schedules** - See actual departure and arrival times based on transit schedules
-- **Detailed legs** - View each segment of your journey (walk to stop, take bus, transfer, etc.)
-- **Line information** - See line numbers, colors, and names as used by local transit authorities
-- **Platform numbers** - Know exactly where to catch your bus or train
+Track expenses for each activity to stay on budget effortlessly. Add costs to places in your itinerary and see your total trip budget at a glance.
 
-To use public transit routing, you need to set a departure time for your journey. The app will then show you the best routes based on the actual transit schedules.
+### New and Updated Maps
 
-### Smarter Offline Maps
+Tripomatic 26 includes new map styles:
+
+- **Outdoor maps** - Better detail for hiking and outdoor activities
+- **Winter maps** - Including ski slopes, cable cars, and winter sports facilities
+
+### AI Assistant
+
+Get intelligent help planning your trips. The AI assistant can help you discover places, organize your itinerary, and answer questions about your destinations.
+
+### Trip-Based Offline Maps
 
 Offline maps now work differently to save space on your device:
 
