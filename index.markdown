@@ -27,6 +27,13 @@ To access your trips and other data, you will need to sign in again, which will 
 
 <br />
 
+## Tripomatic 26
+- [Welcome to Tripomatic 26]({% link tripomatic-26/index.md %})
+- [What's New in Tripomatic 26]({% link tripomatic-26/whats-new.md %})
+- [Migrating to Tripomatic 26]({% link tripomatic-26/migration-guide.md %})
+- [Feature Changes]({% link tripomatic-26/feature-changes.md %})
+- [Tripomatic 26 FAQ]({% link tripomatic-26/faq.md %})
+
 ## About rebranding to Tripomatic
 - [Why do I need to sign in again?]({% link rebranding/migrate-sygic-travel-account.md %})
 - [How to migrate from Sign in with Facebook]({% link rebranding/migrating-facebook-account.md %})
