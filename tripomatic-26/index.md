@@ -21,7 +21,6 @@ If you're coming from the previous version of Tripomatic, your data will be auto
 - [Migration Guide]({% link tripomatic-26/migration-guide.md %}) - Step-by-step instructions for migrating your data
 - [What's New]({% link tripomatic-26/whats-new.md %}) - Detailed overview of new features
 - [Feature Changes]({% link tripomatic-26/feature-changes.md %}) - How existing features work differently
-- [FAQ]({% link tripomatic-26/faq.md %}) - Common questions about the migration
 
 ### Important Notes
 
