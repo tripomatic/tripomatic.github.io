@@ -12,7 +12,6 @@ While most features work the same way in Tripomatic 26, some have changed. Here'
 
 **Additional changes:**
 - Offline maps now expire **30 days after your trip ends** to save storage space
-- Trips without an end date keep their offline maps indefinitely
 - You can re-download offline maps anytime from the trip details
 
 ### Public Transit Routing
