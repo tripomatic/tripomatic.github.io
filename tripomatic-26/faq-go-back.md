@@ -2,8 +2,12 @@
 title: Can I Go Back to the Old App?
 ---
 
-Yes, the old app continues to work with your original data.
+The previous version of Tripomatic (the "old app") is still available for a limited time on the web at [legacy.tripomatic.com](https://legacy.tripomatic.com). You can also access it from a mobile browser on your phone or tablet.
 
-However, any changes you make in Tripomatic 26 will not sync back to the old version. The transfer copies your data, so both versions work independently.
+### Important Limitations
 
-If you prefer to continue using the old app, you can do so. Your data remains intact there.
+**Changes do not sync back.** Any changes you make in the legacy version will not automatically sync to Tripomatic 26. The two versions operate independently.
+
+**No reverse import.** There is no way to import data from Tripomatic 26 back to the legacy version.
+
+If you made changes in the legacy version and want to bring them to Tripomatic 26, you will need to transfer the data manually using the [Migration Assistant]({% link tripomatic-26/faq-migration-assistant.md %}). See [What if I made changes in the old app after transferring?]({% link tripomatic-26/faq-re-transfer.md %}) for detailed instructions.
