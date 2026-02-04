@@ -3,11 +3,11 @@ layout: home
 title: Tripomatic Support
 ---
 
-<img src="/assets/tripomatic-26/coming-soon.png" alt="Tripomatic 26 Coming Soon" style="display: block; margin: 20px auto; max-width: 100%;" />
+<img src="/assets/tripomatic-26/tripomatic-26-launched.png" alt="Tripomatic 26" style="display: block; margin: 20px auto; max-width: 100%;" />
 
 ## Tripomatic 26
 
-Tripomatic 26 is currently in preview and will be launched in late January / early February 2026. You can try the public preview now at [26.tripomatic.com](https://26.tripomatic.com).
+Tripomatic 26 was launched on February 4th, 2026. It is available at [maps.tripomatic.com](https://maps.tripomatic.com).
 
 - [Welcome to Tripomatic 26]({% link tripomatic-26/index.md %})
 - [What's New in Tripomatic 26]({% link tripomatic-26/whats-new.md %})
@@ -18,7 +18,7 @@ Tripomatic 26 is currently in preview and will be launched in late January / ear
 - [Why can't I see my collaborators?]({% link tripomatic-26/faq-collaborators.md %})
 - [Can I go back to the old app?]({% link tripomatic-26/faq-go-back.md %})
 - [What if I made changes in the old app after transferring?]({% link tripomatic-26/faq-re-transfer.md %})
-- [Is my Premium subscription still valid?]({% link tripomatic-26/faq-premium.md %})
+- [Is my premium still valid?]({% link tripomatic-26/faq-premium.md %})
 
 ### General Questions
 - [How do I download maps for my trip?]({% link tripomatic-26/faq-offline-maps.md %})
@@ -26,9 +26,8 @@ Tripomatic 26 is currently in preview and will be launched in late January / ear
 - [What is the AI assistant and how do I use it?]({% link tripomatic-26/faq-ai-assistant.md %})
 - [Do my custom places transfer?]({% link tripomatic-26/faq-custom-places.md %})
 - [How do I access the Migration Assistant?]({% link tripomatic-26/faq-migration-assistant.md %})
-- [When will Tripomatic 26 be fully launched?]({% link tripomatic-26/faq-launch-date.md %})
 
-## About rebranding to Tripomatic
+## Sygic Travel rebrands to Tripomatic
 
 In November 2024, Sygic Travel was rebranded to Tripomatic. If you had an existing Sygic Travel account, your data was migrated when you signed in to the new Tripomatic app.
 
@@ -36,7 +35,7 @@ In November 2024, Sygic Travel was rebranded to Tripomatic. If you had an existi
 
 - [Why do I need to sign in again?]({% link rebranding/migrate-sygic-travel-account.md %})
 - [How to migrate from Sign in with Facebook]({% link rebranding/migrating-facebook-account.md %})
-- [Account migration FAQ]({% link rebranding/account-migration-faq.md %})
+- [Sygic Account Migration FAQ]({% link rebranding/account-migration-faq.md %})
 
 <br />
 

@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions
+title: Sygic Account Migration FAQ
 ---
 
 About migrating your account from Sygic Travel to Tripomatic.
