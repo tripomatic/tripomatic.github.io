@@ -2,32 +2,40 @@
 title: Adding visiting times and notes
 ---
 
-# Website 
+You can add notes and set specific visiting times for activities in your trip.
 
-You can add a note to one day by clicking the gear button next to the name of the day in the left sidebar. To change the visiting time of a place, open the detail of the day in the left sidebar and click the gear buttton next to the name of the place. You can also add note to the place.
+## Adding a Note to a Day
 
-![](/assets/3-sygic-travel/2-editing-your-trip/2-adding-visiting-times-and-notes/visit1.png "null")
+1. Open your trip and select the day
+2. Tap the menu icon on the day header
+3. Select **Add note**
+4. Type your note and save
 
-# iOS app 
+Day notes appear at the top of the day's itinerary.
 
-You can add a note to one day by selecting the day in the calendar and tapping on "Add note to day". 
+## Adding a Note to a Place
 
-![](/assets/3-sygic-travel/2-editing-your-trip/2-adding-visiting-times-and-notes/tripsettings.png "null")
+1. Find the place in your itinerary
+2. Tap on the place to open its options
+3. Select **Add note**
+4. Type your note and save
 
-To add a note to a specific place, find the place in the itinerary and tap on it. You will see the “Add note” option there, along with the option to set visiting time for a place, including start and end time.
+## Setting Visiting Times
 
-![](/assets/3-sygic-travel/2-editing-your-trip/2-adding-visiting-times-and-notes/jabkoitinerary2.png "null")
+To set specific start and end times for an activity:
 
-# Android app 
+1. Tap on the place in your itinerary
+2. Select **Set time**
+3. Choose the start time
+4. Optionally set the duration or end time
+5. Save your changes
 
-You can add a note to one day by tapping the three dots in the upper right corner. 
+When you set times, the app will adjust transit calculations accordingly.
 
-![](/assets/3-sygic-travel/2-editing-your-trip/2-adding-visiting-times-and-notes/android-note-to-one-day.png "null")
+## Adding Notes to Transit
 
-To add a note to a specific place, open the detail of the day and then click on the place. You will see the option to set time or note there.
+You can also add notes to transit segments (the routes between places):
 
-![](/assets/3-sygic-travel/2-editing-your-trip/2-adding-visiting-times-and-notes/android-transport.png "null")
-
-
-
-
+1. Tap the transit icon between two activities
+2. Select **Add note**
+3. Add your transit notes (e.g., "Take the metro line 4" or "Book taxi in advance")

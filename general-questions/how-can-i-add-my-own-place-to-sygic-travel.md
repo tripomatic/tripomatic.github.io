@@ -2,12 +2,25 @@
 title: How can I add my own place to Tripomatic?
 ---
 
-# Website
+You can create custom places for locations not in our database.
 
-To create a custom place, just click anywhere on the map or input its address into the search field. You can also add a custom place by inputting its GPS coordinates into the search field above the map. Use this format of coordinates: 49.232883, 16.572891.
+## On Mobile
 
-Add it to your trip plan by clicking the "Add to trip" button in the left sidebar. You can edit it and add more information later. Use the gear button next to the name of the custom place and choose "Edit custom place" to do this.
+1. Long-press anywhere on the map
+2. A tooltip appears with the address (if available)
+3. Tap **Add to trip** or **Add to Shortlist**
+4. Edit the name and add details as needed
 
-# Apps
+## On Desktop/Web
 
-To add a custom place in the apps, just long tap anywhere on the map. Add it to your trip, then you will be able to edit its name then.
+1. Click anywhere on the map, or search for an address or GPS coordinates (e.g., `49.232883, 16.572891`)
+2. Click **Add to trip** or **Add to Shortlist**
+3. Edit the custom place name and details
+
+## Editing Custom Places
+
+After creating a custom place, you can edit it to add:
+- A custom name
+- Notes and descriptions
+- Visiting duration
+- Cost information

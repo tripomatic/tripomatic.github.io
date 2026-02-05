@@ -48,11 +48,14 @@ The Migration Assistant allows you to transfer individual trips:
 
 ### Re-transferring Data
 
-If you made changes in the old app and want to bring them over, you can re-transfer:
+If you made changes in the old app and want to bring them over:
 
-1. Open the Migration Assistant
-2. Select the trip you want to re-transfer
-3. The existing trip in Tripomatic 26 will be replaced with the fresh data
+1. First, delete the existing trip in Tripomatic 26
+2. Open the Migration Assistant
+3. The trip will now show the download icon again (instead of a checkmark)
+4. Tap the download icon to transfer the updated version
+
+Note: You cannot re-transfer a trip while it still exists in Tripomatic 26. The app prevents duplicates by disabling the transfer button for trips that have already been migrated.
 
 ### Important Notes
 

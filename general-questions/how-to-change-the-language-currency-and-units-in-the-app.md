@@ -2,18 +2,21 @@
 title: How to change the language, currency and units?
 ---
 
-# Website
+## Language
 
-You can pick the language of the website using the flag in the upper right corner of the website.
-To change the currency and units, sign in, then click your avatar in the upper right corner to open the menu. There, choose My Account. You can choose them here.
+The app language follows your device's language setting. To change it:
+- **iOS/Android** - Change your device language in system settings
+- **Web** - The website adapts to your browser language
 
-# iOS
+## Currency and Units
 
-The language of the app depends on the language of your phone, so if you change it, the language of the app will change too.
-To change the currency and units, open your device's Settings, then scroll down to find the Tripomatic app. Tap it and you will be able to change them.
+You can change currency and distance units within the app:
 
-# Android
+1. Tap **More** in the bottom navigation
+2. Tap **Settings**
+3. Select your preferred:
+   - **Currency** - For price displays
+   - **Distance units** - Kilometers or miles
+   - **Temperature** - Celsius or Fahrenheit
 
-The language of the app depends on the language of your phone, so if you change it, the language of the app will change too.
-
-To change the currency and units, open the Tripomatic app and go to the main screen of the app. Then, swipe from the left to open the main menu and go to Settings.
+On the web, click your profile icon and go to settings to change these preferences.

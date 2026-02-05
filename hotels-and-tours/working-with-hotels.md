@@ -2,40 +2,48 @@
 title: Working with hotels
 ---
 
-# Website
+Tripomatic helps you find and compare hotels at your destination, powered by Booking.com.
 
-To add a hotel to your trip, switch to the Hotels tab. You can see all the hotels you might want to visit on the map. If you’re looking for a particular hotel, you can use the search field to find it. You can change the dates for your stay and the number of visitors in the sidebar. You can also filter hotels by their categories.
+## Finding Hotels
 
-![](/assets/3-sygic-travel/3-hotels-and-tours/1-working-with-hotels/hotel1.png "null")
+1. Tap **Hotels** in the bottom navigation
+2. Set your check-in and check-out dates
+3. Set the number of guests
+4. Browse available hotels
 
-Click on the hotel to open its detail and to read more about it. You can add a hotel to your trip by clicking the "Add to trip" button.
+## Filtering Hotels
 
-![](/assets/3-sygic-travel/3-hotels-and-tours/1-working-with-hotels/hotel2.png "null")
+Filter results by:
+- **Star rating** - Select hotel class
+- **Price range** - Set your budget
+- **Review score** - Minimum guest rating
+- **Accommodation type** - Hotels, apartments, hostels, etc.
+- **Facilities** - WiFi, parking, pool, breakfast included, etc.
 
-You can choose to schedule it on all nights or you can pick several of them.
+## Viewing Hotel Details
 
-![](/assets/3-sygic-travel/3-hotels-and-tours/1-working-with-hotels/hotel3.png "null")
+Tap any hotel to see:
+- Photos and description
+- Room types and prices
+- Guest reviews
+- Location on map
+- Available facilities
 
-Once you choose the date, you are offered to book the hotel, but you don’t have to do it right away. The hotel is automatically added to the end of the chosen day and to the beginning of the next one. 
+## Booking a Hotel
 
-# iOS app
+1. Tap on the hotel you want to book
+2. Review the room options and prices
+3. Tap the booking button to open Booking.com
+4. Complete your reservation on Booking.com's website
 
-To see a list of hotels for the desired area, tap on Hotels. You can filter the hotels according to rating, price range, and so on. To see hotels on the map, drag the bar down. Tap on the hotel to view its detail. By tapping the heart icon, you can save the hotel for later. Add the hotel to your trip by tapping on Add to trip and selecting a date in the calendar.
+Note: Bookings are handled by Booking.com. Tripomatic does not process payments or manage reservations directly.
 
-![](/assets/3-sygic-travel/3-hotels-and-tours/1-working-with-hotels/ihotel1.png "null")
+## Adding Hotels to Your Trip
 
-![](/assets/3-sygic-travel/3-hotels-and-tours/1-working-with-hotels/ihotel2.png "null")
+You can add a hotel to your trip itinerary:
 
-# Android app
+1. Tap **Add to trip** on the hotel details
+2. Select which nights you'll be staying
+3. The hotel appears in your itinerary on those dates
 
-To see hotels on the map, tap on the Map and tap the icon in the upper right corner to open the Categories menu and choose “Accommodation” there. You can then filter the hotels according to rating, price range, and so on. Tap on the hotel to view its detail. By tapping the heart icon, you can save the hotel for later. Add the hotel to your trip by tapping the blue plus button and choose the dates in the calendar. Then, you can either book the hotel right away or do it later.
-
-![](/assets/3-sygic-travel/3-hotels-and-tours/1-working-with-hotels/ahotel1.png "null")
-
-![](/assets/3-sygic-travel/3-hotels-and-tours/1-working-with-hotels/ahotel2.png "null")
-
-Tap on the hotel to view its detail. By tapping the heart icon, you can save the hotel for later. Add the hotel to your trip by tapping the blue plus button and choose the dates in the calendar. Then, you can either book the hotel right away or do it later.
-
-![](/assets/3-sygic-travel/3-hotels-and-tours/1-working-with-hotels/ahotel3.png "null")
-
-![](/assets/3-sygic-travel/3-hotels-and-tours/1-working-with-hotels/ahotel4.png "null")
+This helps you keep track of where you're staying each night of your trip.

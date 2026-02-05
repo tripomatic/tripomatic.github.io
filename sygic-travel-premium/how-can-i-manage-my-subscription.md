@@ -2,35 +2,31 @@
 title: How can I manage my Tripomatic Premium subscription?
 ---
 
-# iOS app
+## iOS
 
-If you purchased a subscription through your iTunes account, you can cancel or change it in the "Manage Subscription" page in the settings of your iPhone or iPad.
+If you purchased a subscription through your Apple account, you can manage it in your iPhone or iPad settings.
 
-1. Open Settings > [your name] > iTunes & App Store
-2. Tap your Apple ID at the top of the screen > View Apple ID
-3. Open Subscriptions
-4. Choose the subscription that you want to manage > Use the options to manage your subscription
+1. Open **Settings** > tap your name at the top
+2. Tap **Subscriptions**
+3. Select Tripomatic to manage your subscription
 
-You can choose a different subscription offer, or tap **Cancel Subscription** to cancel your subscription.  If you cancel, your subscription will stop at the end of the current billing cycle. For more information, please visit [Apple's help page](https://support.apple.com/en-us/HT202039#subscriptions).
+You can change your plan or tap **Cancel Subscription** to cancel. If you cancel, your subscription will remain active until the end of the current billing cycle. For more information, visit [Apple's help page](https://support.apple.com/en-us/HT202039#subscriptions).
 
-# Android
+## Android
 
-If you purchased a subscription through your Google Play account, you can manage it via Google Play Store.
+If you purchased a subscription through Google Play, you can manage it via the Play Store.
 
-1. Open the Google Play Store on your Android phone or tablet
-2. Make sure that you’re signed in to the correct Google Account
-3. Tap Menu > Subscriptions
-4. Choose the subscription you want to cancel > cancel subscription
-   
-For more information, please visit [Google's help page](https://support.google.com/googleplay/answer/7018481?hl=en&ref_topic=1689236).
+1. Open the **Google Play Store**
+2. Tap your profile icon > **Payments & subscriptions** > **Subscriptions**
+3. Select Tripomatic to manage your subscription
 
-# Website
+For more information, visit [Google's help page](https://support.google.com/googleplay/answer/7018481).
 
-If you purchased a subscription on our website, you can manage it via My Account at maps.tripomatic.com.
+## Website
 
-1. Click your avatar in the upper right corner and choose My Account.
-2. Switch to Tripomatic Premium tab.
-3. Click on Manage your subscription.
-4. Follow the instructions you receive in your inbox.
-   
-<div><img src="/assets/3-sygic-travel/6-sygic-travel-premium/4-how-can-i-manage-my-subscription/manage-orders-web.png" alt="" title="null" height=400 /></div>
+If you purchased a subscription on the website, you can manage it through the subscription management portal.
+
+1. Go to [maps.tripomatic.com](https://maps.tripomatic.com) and sign in
+2. Open your profile settings
+3. Click **Manage Subscription** to open the subscription portal
+4. From there you can update payment methods, change plans, or cancel

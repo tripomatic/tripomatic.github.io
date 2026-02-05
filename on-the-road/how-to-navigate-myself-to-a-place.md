@@ -2,16 +2,27 @@
 title: How to navigate myself to a place?
 ---
 
-# iOS app 
+Tripomatic can open directions to any place in your preferred navigation app.
 
-To navigate yourself to a place, tap the "Navigate" button in the upper left corner in the detail of the place. 
+## Getting Directions
 
-![](/assets/3-sygic-travel/5-on-the-road/3-how-to-navigate-myself-to-a-place/navigate1.png "null")
+1. Open the details of any place
+2. Tap the **Navigate** button or **Directions** icon
+3. A navigation panel appears showing:
+   - Distance and estimated travel time
+   - Route preview on the map
+   - Transport mode options (walking, car, bike, etc.)
 
-# Android app 
+## Opening in a Map App
 
-To navigate yourself to a place, tap the "Navigate" button below the name of the place.
+On mobile devices, tap **Open in map app** to launch your preferred navigation app with directions to the destination. You'll be able to choose from the navigation apps installed on your device.
 
-![](/assets/3-sygic-travel/5-on-the-road/3-how-to-navigate-myself-to-a-place/android_editing_4.png "null")
+## Transport Modes
 
-If you choose car navigation, you will be taken to a navigation app you have installed on your phone. You can change which app this action opens [in the settings of the app](../linking-with-other-sygic-apps/how-can-i-change-my-preferred-navigation-app-in-sygic-travel.html).
+Choose your preferred transport mode:
+- **Walking** - Pedestrian directions
+- **Car** - Driving directions
+- **Bike** - Cycling directions
+- **Scooter** - Scooter/moped directions
+- **Taxi** - Estimated taxi route and fare
+- **Public transit** - Bus, metro, and train connections (where available)

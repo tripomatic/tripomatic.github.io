@@ -2,9 +2,9 @@
 title: Welcome to Tripomatic 26
 ---
 
-Tripomatic 26 is a completely new generation of our travel planning app, rebuilt from the ground up. This new version brings a unified experience across all platforms while introducing powerful new features.
+Tripomatic 26 is a completely new generation of our travel planning app, rebuilt from the ground up. This version brings a unified experience across all platforms while introducing powerful new features.
 
-**Tripomatic 26 is currently in preview** and will be launched in late January / early February 2026. You can try the public preview now at [26.tripomatic.com](https://26.tripomatic.com).
+Get started at [maps.tripomatic.com](https://maps.tripomatic.com) or download the app from the [App Store](https://apps.apple.com/app/tripomatic/id519058033) or [Google Play](https://play.google.com/store/apps/details?id=com.tripomatic).
 
 ### What's New in Tripomatic 26
 
