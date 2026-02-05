@@ -2,14 +2,21 @@
 title: How to buy Tripomatic Premium?
 ---
 
-You can buy Tripomatic Premium in the [iOS app](https://itunes.apple.com/us/app/sygic-travel-trip-planner/id519058033?mt=8) or in the [Android app](https://play.google.com/store/apps/details?id=com.tripomatic&hl=en).
-Select "Get Premium" from the sidebar menu (iOS) or tap the "Get" button on the Trip Home screen (Android) to purchase Tripomatic Premium.
+You can subscribe to Tripomatic Premium in the [iOS app](https://apps.apple.com/app/tripomatic/id519058033) or in the [Android app](https://play.google.com/store/apps/details?id=com.tripomatic).
 
-**How to restore your purchase?**
+## In the Mobile App
 
-On the Premium purchase screen, you can also restore a previously-made purchase. Just tap the “Restore” link in the upper right corner (iOS), or click the three dots in the upper right corner and choose "Restore" (Android).
+The Premium purchase screen appears automatically when you try to use a premium feature, such as:
+- Creating a new trip (after the free trial)
+- Using the AI assistant
+- Accessing premium map layers
 
-**at maps.tripomatic.com**
+You can choose between monthly or yearly subscription plans.
 
-Monthly or yearly subscription can also be purchased [on the website](http://maps.tripomatic.com). Click your avatar in the upper right corner and click on Get Tripomatic Premium.
-<div><img src="/assets/3-sygic-travel/6-sygic-travel-premium/1-how-to-buy-sygic-travel-premium/sygic_maps.png" alt="" title="null" height=400 /></div>
+## On the Website
+
+Monthly or yearly subscriptions can also be purchased at [maps.tripomatic.com](https://maps.tripomatic.com). The Premium dialog will appear when you attempt to use a premium feature.
+
+## Restoring a Previous Purchase
+
+If you've already purchased Premium, tap the **"Already purchased? Restore"** button on the purchase screen to restore your subscription.

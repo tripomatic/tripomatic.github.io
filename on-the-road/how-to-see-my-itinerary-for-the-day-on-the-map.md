@@ -2,10 +2,27 @@
 title: How to see my itinerary for the day on the map?
 ---
 
-# iOS app
-Open your trip and choose a day from the calendar. The map will show you the day’s itinerary and routes between the attractions. 
+The map always shows your current day's itinerary alongside the trip panel.
 
-# Android app 
-Go to your itinerary, open a specific day and tap the map icon in the upper right corner to see routes between the attractions added to your day.
+## Viewing Your Day on the Map
 
-![](/assets/3-sygic-travel/5-on-the-road/2-how-to-see-my-itinerary-for-the-day-on-the-map/ishowitinerary1.png "null")
+1. Open your trip
+2. Select a day from the calendar or day tabs
+3. The map automatically shows:
+   - Markers for each place in your day
+   - Routes between places
+   - Your current location (if enabled)
+
+## Map Features
+
+- **Place markers** - Tap any marker to see place details
+- **Route lines** - Show the path between activities
+- **Transit icons** - Indicate the transport mode for each segment
+
+## Show on Map
+
+To quickly center the map on a specific day:
+1. Tap the menu icon on the day header
+2. Select **Show on map**
+
+The map will zoom to show all activities for that day.

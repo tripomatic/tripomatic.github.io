@@ -2,25 +2,15 @@
 title: Migrating from Sign in with Facebook to Tripomatic Account
 ---
 
-Tripomatic accounts no longer support Sign in with Facebook. If you previously signed in with Facebook, you’ll need to manually migrate your account.
+The Tripomatic mobile and web apps no longer support Sign in with Facebook. If you previously signed in with Facebook, you'll need to migrate your account using the Customer Portal.
+
+**Important:** Facebook sign-in is only available on the [Customer Portal](https://customer.tripomatic.com) for migration purposes. After migrating, you'll use Google, Apple, or email/password to sign in to the Tripomatic apps.
 
 ## How to Migrate Your Account
 
-1. Open the [Migration Assistant](https://customer.tripomatic.com/migrate).
-2. Create a new Tripomatic account. You can use one-click sign-in with Apple or Google, or create a traditional account with your email and password.
-3. Sign in with your Facebook account. This will associate your data with the new account and complete the migration.
-4. You can now sign in to Tripomatic mobile and web apps with your new Tripomatic account and access your data.
-
-![Migration Assistant - Step 1](/assets/3-sygic-travel/A-rebranding/migrate-1.png)
-
-In the second step, create a new Tripomatic account. You can use one-click sign-in with Apple or Google, or create a traditional account with your email and password. To create an email/password account, click on the "E-mail" toggle button.
-
-![Migration Assistant - Step 2](/assets/3-sygic-travel/A-rebranding/migrate-2.png)
-
-In the third step, click on the "Sign in with Facebook" button. This will associate your data with the new account and complete the migration.
-
-![Migration Assistant - Step 3](/assets/3-sygic-travel/A-rebranding/migrate-3.png)
-
-When you're done, you can sign in to Tripomatic mobile and web apps with your new Tripomatic account and access your data.
+1. Open the [Migration Assistant](https://customer.tripomatic.com/migrate) in your web browser.
+2. Create a new Tripomatic account using Google, Apple, or email/password.
+3. Click "Sign in with Facebook" to connect your old account. This will transfer your trips and data to the new account.
+4. You can now sign in to Tripomatic mobile and web apps with your new account.
 
 You will receive an email confirming the migration.

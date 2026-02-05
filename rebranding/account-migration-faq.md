@@ -29,4 +29,4 @@ Are you sure you signed in with the correct account? If you have multiple accoun
 1. Check that you received an *"Account migrated"* email from us (sender: team@mail.tripomatic.com). If not, you likely have not migrated your Sygic Travel account yet. Refer to [How to migrate from Sygic Travel to Tripomatic]({% link rebranding/migrate-sygic-travel-account.md %}).
 2. Verify that you can sign in at [maps.tripomatic.com](https://maps.tripomatic.com) and check if your past trips are visible. If not, you may have used a different account or identity provider. Try signing in with other emails you use or with Google/Apple.
 3. Check that you can sign in to the Customer Portal at [customer.tripomatic.com](https://customer.tripomatic.com).
-4. Attempt to migrate your account manually by following the steps at [Migration Assistant](https://customer.tripomatic.com/migrate-all).
+4. Attempt to migrate your account manually by following the steps at [Migration Assistant](https://customer.tripomatic.com/migrate).

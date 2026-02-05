@@ -2,64 +2,56 @@
 title: Working with the itinerary
 ---
 
-# Website
+Your trip itinerary shows all the activities planned for each day, including places to visit and the routes between them.
 
-To overview all activities in a day, select the day in your calendar. You will then see the itinerary for the day in the left sidebar. When you open a detail of a day, you can click the gear button next to it and choose to swap the day, insert an empty day there or remove the day.
+## Viewing Your Itinerary
 
-![](/assets/3-sygic-travel/2-editing-your-trip/1-working-with-the-itinerary/tripitineraryedit.png "null")
+1. Tap **Trip** in the navigation
+2. Select a day to see its details
+3. You'll see the day's activities, total estimated time, and routes between places
 
-Between the activities below, you can see an icon indicating **the mode of transport**. If you click on it, you can change the mode of transport, set time to the transport, set duration and add note.
+## Reordering Activities
 
-![](/assets/3-sygic-travel/2-editing-your-trip/1-working-with-the-itinerary/itinerary-1.png "null")
+Drag and drop activities to change their order within a day. Simply press and hold an activity, then drag it to the new position.
 
-At the top, you can see the **total estimated time of your day**. Note that the total time does not include transit with unknown duration.
+## Activity Options
 
-![](/assets/3-sygic-travel/2-editing-your-trip/1-working-with-the-itinerary/itinerary-2.png "null")
+Tap on any activity to access these options:
 
-To change the order of activities in a day, open the specific day and simply drag and drop the activities.
+- **Reschedule** - Move the activity to a different day
+- **Duplicate** - Create a copy of the activity
+- **Set time** - Set specific start/end times
+- **Add note** - Add notes or reminders
+- **Add cost** - Track expenses for this activity
+- **Remove** - Delete the activity from your trip
 
-![](/assets/3-sygic-travel/2-editing-your-trip/1-working-with-the-itinerary/tripitinerary3.png "null")
+## Transit Between Places
 
-Click on the gear button next to the name of the place to reschedule or duplicate the activity.
+Tap the transit icon between activities to:
 
-![](/assets/3-sygic-travel/2-editing-your-trip/1-working-with-the-itinerary/visit1.png "null")
+- **Change transport mode** - Choose from walking, car, bike, scooter, taxi, or public transit
+- **View route details** - See the route on the map
+- **Set time** - Add specific departure time
+- **Add note** - Add transit notes
 
-# iOS app
+The app automatically calculates travel times based on your chosen transport mode.
 
-To see the itinerary, tap on the “Trip” button and select a date. Here you can see the total estimated time for the selected day.
+## Day Options
 
-![](/assets/3-sygic-travel/2-editing-your-trip/1-working-with-the-itinerary/detail1.png "null")
+Tap the menu icon on a day header to access:
 
-![](/assets/3-sygic-travel/2-editing-your-trip/1-working-with-the-itinerary/detail2.png "null")
+- **Show on map** - Center the map on this day's activities
+- **Add note** - Add a note for the entire day
+- **Add preferred transit type** - Set a default transport mode for the day
+- **Add cost** - Track daily expenses
+- **Swap days** - Exchange this day with another
+- **Insert day** - Add an empty day before or after
+- **Remove day** - Delete the entire day
 
-If you wish to edit the order of the activities, scroll down, tap on “Reorder items” and then drag and drop them as you need. Delete an activity by tapping on it and selecting “Remove”. To move an activity to a different day, tap on “Edit schedule” and then select a date. To add a note to a specific place, tap on the place in your itinerary and select “Add note”. You can also set time for a place and set duration.
+## Estimated Time
 
-![](/assets/3-sygic-travel/2-editing-your-trip/1-working-with-the-itinerary/jabkoitinerary1.png "null")
+The top of each day shows the total estimated time, including:
+- Time spent at each activity
+- Transit time between activities
 
-![](/assets/3-sygic-travel/2-editing-your-trip/1-working-with-the-itinerary/jabkoitinerary2.png "null")
-
-By tapping the small icon indicating **the mode of transport**, you can change it. You can also set time, duration or add note to it.
-
-![](/assets/3-sygic-travel/2-editing-your-trip/1-working-with-the-itinerary/jabkoitinerary3.png "null")
-
-You can also set time, duration or add note to it.
-
-![](/assets/3-sygic-travel/2-editing-your-trip/1-working-with-the-itinerary/jabkoitinerary4.png "null")
-
-# Android
-
-Tap the calendar icon in your Trip Home to open the itinerary. You can move the days by dragging and dropping them. Delete a day by tapping the three dots in its upper right corner. Add a day by tapping the plus button in the upper right corner of the screen.
-
-![](/assets/3-sygic-travel/2-editing-your-trip/1-working-with-the-itinerary/android_editing_1.png "null")
-
-Tap on the specific day to see its detail. You can drag and drop the places as you need. Here you can also see the total estimated time for the selected day.
-
-![](/assets/3-sygic-travel/2-editing-your-trip/1-working-with-the-itinerary/adetail1.png "null")
-
-Tap on a place to view its detail, edit schedule, duplicate it in your itinerary, set time or a note to it. You can also remove the place from your itinerary here. By tapping the small icon indicating the mode of transport between places, you can change it.
-
-![](/assets/3-sygic-travel/2-editing-your-trip/1-working-with-the-itinerary/android-transport.png "null")
-
-You can also set time or add note to the transport, or see transport details.
-
-![](/assets/3-sygic-travel/2-editing-your-trip/1-working-with-the-itinerary/android-transport2.png "null")
+Note: Transit with unknown duration (like flights) is not included in the total.

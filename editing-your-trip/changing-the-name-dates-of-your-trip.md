@@ -2,28 +2,40 @@
 title: Changing the name & dates of your trip
 ---
 
-# Website 
+You can change your trip's name, dates, and other settings at any time.
 
-To change the dates of your trip or rename it, click on the gear button next to the name of your trip.
+## Accessing Trip Settings
 
-![](/assets/3-sygic-travel/2-editing-your-trip/3-changing-the-name-dates-of-your-trip/name1.png "null")
+**On mobile:**
+1. Open your trip
+2. Tap **Trip** in the navigation
+3. Scroll down and tap **Trip Settings**
 
-To adjust the dates, click Edit and then change the start day of your trip.
+**On web:**
+1. Open your trip
+2. Click the gear icon next to your trip name
 
-![](/assets/3-sygic-travel/2-editing-your-trip/3-changing-the-name-dates-of-your-trip/name2.png "null")
+## Changing the Trip Name
 
-# iOS app 
+1. Open Trip Settings
+2. Tap on the trip name
+3. Enter the new name
+4. Save your changes
 
-To change the starting date of your trip, tap the Trip button, scroll down and select Trip Settings. 
+## Changing the Trip Dates
 
-![](/assets/3-sygic-travel/2-editing-your-trip/3-changing-the-name-dates-of-your-trip/share1.png "null")
+1. Open Trip Settings
+2. Tap on the dates
+3. Select a new start date
+4. Adjust the end date if needed
+5. Save your changes
 
-You can also change the name of your trip here, edit its privacy settings, invite participants and erase the trip.
+When you change dates, your activities stay on their assigned days - only the calendar dates shift.
 
-![](/assets/3-sygic-travel/2-editing-your-trip/3-changing-the-name-dates-of-your-trip/iname2.png "null")
+## Other Trip Settings
 
-# Android app
+In Trip Settings you can also:
 
-To change the dates of your trip, tap the three dots in the upper right corner of the trip home screen and select Edit trip. You can also change the name of your trip here and its privacy settings.
-
-![](/assets/3-sygic-travel/2-editing-your-trip/3-changing-the-name-dates-of-your-trip/android_editing.png "null")
+- **Manage sharing** - Invite travel companions or change sharing permissions
+- **Set start/end locations** - Define where your trip begins and ends
+- **Delete trip** - Permanently remove the trip

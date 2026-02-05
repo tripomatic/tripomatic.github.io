@@ -2,8 +2,8 @@
 title: Can I use Tripomatic Premium on all my devices?
 ---
 
-Tripomatic Premium works on all devices signed in with the same account.
+Yes! Tripomatic Premium works on all devices (iOS, Android, web, macOS) as long as you're signed in with the same Tripomatic account.
 
-**To restore your purchase**, go to the screen where you can purchase the Premium license, and then use the "Restore" button (**iOS**) or tap the three dots and then the Restore option (**Android**).
+**To restore your purchase**, open the Premium purchase screen and tap **"Already purchased? Restore"**. Make sure you're using the same Apple ID (iOS) or Google Play account (Android) that you used for the original purchase.
 
-If you are not able to restore your purchase, please check if you are using the same Apple ID or Google Play account. In case you need more help, contact our support staff at team@tripomatic.com with your account information and the receipt for your purchase.
+If you're unable to restore your purchase, contact our support team at team@tripomatic.com with your account information and purchase receipt.

@@ -2,22 +2,37 @@
 title: Working with tours
 ---
 
-# Website 
+Tripomatic helps you discover tours and activities at your destination, powered by GetYourGuide.
 
-To add a tour to your itinerary, switch to the Tours tab. You can then see an overview of all tours available for your destination. Set the dates in the upper left corner to see which tours are available on these dates. You can also filter the tours by categories.
+## Finding Tours
 
-![](/assets/3-sygic-travel/3-hotels-and-tours/2-working-with-tours/tours1.png "null")
+1. Tap **More** in the bottom navigation
+2. Select **Tours**
+3. Browse tours available in your destination
 
-Click  the "Book now" button to book the tour. 
+You can filter tours by:
+- Date and duration
+- Category (walking tours, day trips, food & wine, etc.)
+- Price range
 
-# Apps 
+## Viewing Tour Details
 
-In the **Android app**, tap on Tour & Activities in the Trip home menu to see tours in your desired destination.
+Tap any tour to see:
+- Description and highlights
+- Pricing and availability
+- Reviews from other travelers
+- Cancellation policy
+- What's included
 
-![](/assets/3-sygic-travel/3-hotels-and-tours/2-working-with-tours/android-tours-1.png "null")
+## Booking a Tour
 
-In the **iOS app**, open your desired destination on the map and tap on "Tours" at the bottom of the screen.
+1. Tap on the tour you're interested in
+2. Review the details and select your preferred date/time
+3. Tap **Book on GetYourGuide**
+4. You'll be taken to GetYourGuide's website to complete your booking
 
-![](/assets/3-sygic-travel/3-hotels-and-tours/2-working-with-tours/itours1.png "null")
+Note: Bookings are handled by GetYourGuide. Tripomatic does not process payments or manage reservations directly.
 
-You will see a list of tours available in this destination. Above the list, you can choose on which day you'd like to take the tour and how long should it be. You can also filter tours according to other criteria by tapping the icon in the upper right corner. Tap the tour to view its detail. You can read more about the tour here, read its reviews and check its availability. Book the tour by checking its availability first, then adding it to your cart. Don't forget to check out!
+## Adding Tours to Your Trip
+
+After finding a tour you like, you can add it to your itinerary to remember when and where you've booked activities.

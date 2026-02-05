@@ -1,70 +1,65 @@
 ---
-title: Planning a trip in the iOS app
+title: Planning a trip in the mobile app
 ---
 
-Welcome to Tripomatic. Tripomatic allows you to discover cool places around the world and create awesome travel itineraries with our [iOS app](https://itunes.apple.com/us/app/sygic-travel-trip-planner/id519058033?mt=8). 
+Welcome to Tripomatic! The mobile app allows you to discover places around the world and create travel itineraries. The app works the same on iOS and Android.
 
-## Creating a trip
+## Creating a Trip
 
-To create a new trip, tap on "My Trips" in the sidebar menu.
+1. Tap **Trip** in the bottom navigation bar
+2. Tap **Create new trip** (or tap **More** > **My Trips** > **Create new trip**)
+3. Describe your trip - you can type naturally like "5 days in Paris next month"
+4. The AI will detect your destination and suggest dates
+5. Tap **Create trip** to start planning
 
-![](/assets/3-sygic-travel/1-how-to-plan-a-trip/2-planning-a-trip-in-the-ios-app/trip1.png "null")
+## Working with the Map
 
-Then select "New Trip" in the upper right corner.
+The map shows places you might want to visit in your destination. Tap any marker to see details about a place.
 
-![](/assets/3-sygic-travel/1-how-to-plan-a-trip/2-planning-a-trip-in-the-ios-app/trip2.png "null")
+**Filter places by category:**
+- Tap the search bar to see category filters (Sights, Museums, Restaurants, etc.)
+- Select a category to show only those places on the map
 
-Search for a desired destination.
+**Add a place to your trip:**
+1. Tap a place on the map to see its details
+2. Tap **Add to trip**
+3. Choose which day to add it to
 
-![](/assets/3-sygic-travel/1-how-to-plan-a-trip/2-planning-a-trip-in-the-ios-app/trip3.png "null")
+**Save a place for later:**
+- Tap the heart icon to add it to your Shortlist (places you're considering but haven't committed to)
+- Or tap **Favorite** to add it to your permanent favorites
 
-You can then choose a trip template to get started or start an empty trip to build your own itinerary.
+## Using the Shortlist
 
-![](/assets/3-sygic-travel/1-how-to-plan-a-trip/2-planning-a-trip-in-the-ios-app/trip4.png "null")
+The Shortlist is for places you're considering but haven't added to your itinerary yet. It's perfect for deciding between options.
 
-Set the name and dates of your trip on the next screen. Tap the "Create trip" button. ## Working with the map You can see all the places you might want to visit on the map. 
+1. Tap **Trip** in the bottom navigation
+2. Scroll down to see your Shortlist
+3. Drag places from the Shortlist to a day when you're ready to add them
 
-![](/assets/3-sygic-travel/1-how-to-plan-a-trip/2-planning-a-trip-in-the-ios-app/trip6.png "null") 
+## Custom Places
 
-You can also filter places by their categories that you can see below the search bar.
+If a place isn't in our database, you can create a custom place:
 
-![](/assets/3-sygic-travel/1-how-to-plan-a-trip/2-planning-a-trip-in-the-ios-app/trip7.png.jpeg "null")
+1. Long-press anywhere on the map
+2. A tooltip appears with the address
+3. Tap **Add to trip** or **Add to Shortlist**
+4. You can edit the name and details later
 
-If you wish, you can filter the places further by tags after you select a category.
+## Adding Multiple Destinations
 
-![](/assets/3-sygic-travel/1-how-to-plan-a-trip/2-planning-a-trip-in-the-ios-app/trip14.png.jpeg "null")
+To add another destination to your trip:
 
-![](/assets/3-sygic-travel/1-how-to-plan-a-trip/2-planning-a-trip-in-the-ios-app/trip15.png.jpeg "null")
+1. Search for the new destination
+2. Tap on it to see details
+3. Tap **Add to trip** and select a day
+4. If the date is outside your current trip dates, you'll be asked to extend the trip
 
-To add a place straight from the map, click on it to read more about it, then click the "Add to trip" button to add it to your trip plan.
+## AI Assistant
 
-![](/assets/3-sygic-travel/1-how-to-plan-a-trip/2-planning-a-trip-in-the-ios-app/trip8.png "null")
+Tap **AI** in the bottom navigation to chat with the AI assistant. You can ask questions like:
+- "What are the best restaurants near the Eiffel Tower?"
+- "Add a coffee break after the museum"
+- "Suggest activities for a rainy day"
 
-This will open the calendar where you will assign a day to that place.
-
-![](/assets/3-sygic-travel/1-how-to-plan-a-trip/2-planning-a-trip-in-the-ios-app/trip9.png "null")
-
-If you want to save a place for later, click the "Favorite" button instead to add it to your Favorites. You can filter all your favorites on the map by tapping "Favorites" under the search bar.
-
-![](/assets/3-sygic-travel/1-how-to-plan-a-trip/2-planning-a-trip-in-the-ios-app/trip7.png.jpeg "null")
-
-![](/assets/3-sygic-travel/1-how-to-plan-a-trip/2-planning-a-trip-in-the-ios-app/favorites.png.jpeg "null")
-
-If you’re looking for a particular place, you can use the search bar to find it. Tap on "Guide" to see the destination’s guide, trip templates, featured tours and hotels. You can also explore collections of the most popular sights in your destination.
-
-![](/assets/3-sygic-travel/1-how-to-plan-a-trip/2-planning-a-trip-in-the-ios-app/trip11.png "null")
-
-![](/assets/3-sygic-travel/1-how-to-plan-a-trip/2-planning-a-trip-in-the-ios-app/trip12.png "null")
-
-## Custom places 
-
-If you’re missing a place, you can create it as a custom place. To add it, just long tap anywhere on the map. Add it to your trip, then you will be able to edit its name.
-
-![](/assets/3-sygic-travel/1-how-to-plan-a-trip/2-planning-a-trip-in-the-ios-app/trip13.png "null")
-
-## Adding a new destination
-
-To add a new destination to your trip, search for it and open its detail, then tap on "Add to trip" and select a date. If you select a date outside the date range of your trip, you will have an option of creating a new trip or extending the current one.
-
-
-
+The AI assistant requires a Premium subscription.

@@ -16,13 +16,9 @@ If you previously signed in with Facebook, you’ll need to migrate your account
 
 Your Sygic account will remain unaffected and will continue to work with Sygic apps. 
 
-### When Do I Need to Migrate My Account?
+### What If I Don't Migrate My Account?
 
-You must migrate your account **by December 31, 2024**. After this date, we cannot guarantee access to trips and other data created with the Sygic account.
-
-### What If I Don’t Migrate My Account?
-
-If you don’t migrate, you may lose access to your trips, favorites, and other data created before the migration.
+If you don't migrate, you won't be able to access your trips, favorites, and other data created with your Sygic Travel account. We recommend migrating as soon as possible to ensure continued access to your data.
 
 ### What Happens to My Sygic Travel Premium?
 
