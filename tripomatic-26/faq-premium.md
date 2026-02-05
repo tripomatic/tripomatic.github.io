@@ -18,3 +18,5 @@ If your Premium status is not showing in Tripomatic 26, try manually syncing you
 This will resync all your user settings and should recognize your existing Premium purchase.
 
 If your Premium status still does not appear after trying this, please contact our support team for assistance.
+
+![Tripomatic Migration Assistent](/assets/tripomatic-26/migration-assistant.webp)

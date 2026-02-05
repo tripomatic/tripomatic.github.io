@@ -21,3 +21,5 @@ If your trip doesn't have an end date, the offline maps will be kept indefinitel
 ### Can I Download Maps for a Specific Area Like Before?
 
 No, offline maps are now trip-based. This approach saves storage space because you only download what you need for your specific trip, rather than entire regions you might not fully explore.
+
+![How to download offline maps on Tripomatic trip planner](/assets/tripomatic-26/download-offline-map.webp)

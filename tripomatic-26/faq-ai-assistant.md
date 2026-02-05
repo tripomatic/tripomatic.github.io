@@ -18,3 +18,5 @@ The AI assistant requires an active Tripomatic Premium subscription:
 - **Monthly or yearly subscription** - Full access to the AI assistant and all premium features
 
 If you have a lifetime Premium purchase from before Tripomatic 26, you'll need to upgrade to a subscription to access AI features. Your lifetime purchase continues to work for non-AI premium features, but AI capabilities require an active subscription.
+
+![Tripomatic AI Assistent](/assets/tripomatic-26/AI-assistant.webp)

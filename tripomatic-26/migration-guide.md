@@ -37,6 +37,8 @@ You can also trigger the transfer manually at any time:
    - **Migrate Favorites** - Transfers only your favorites
    - **Migrate New Trips** - Transfers only trips that haven't been transferred yet
 
+![Tripomatic Migration Assistent](/assets/tripomatic-26/migration-assistant.webp)
+
 ### Selective Transfer
 
 The Migration Assistant allows you to transfer individual trips:
