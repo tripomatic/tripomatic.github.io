@@ -7,7 +7,10 @@ Collaborators and sharing relationships are not transferred to Tripomatic 26. Yo
 ### How to Invite Collaborators Again
 
 1. Open the trip you want to share
-2. Go to trip settings or the sharing menu
-3. Invite your travel companions using their email address
+2. Go to Trip Menu (three dots icon above the dates)
+3. Select Trip Sharing and click the Invite someone button
+4. Fill in the travel companion's name (optional), select the permission level(view-only or full access) and click the Create Invite button.
+5. Copy the link to the invite and share it with your travel companion.
+6. They can click the link and join your trip.
 
-They will receive an invitation and can join your trip once they accept it.
+![Sharing a trip on Tripomatic trip planner](/assets/tripomatic-26/share-trip.webp)
