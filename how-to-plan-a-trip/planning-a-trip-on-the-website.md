@@ -8,7 +8,7 @@ Welcome to [Tripomatic](https://maps.tripomatic.com). The website allows you to 
 
 1. Go to [maps.tripomatic.com](https://maps.tripomatic.com)
 2. Click on **Trip** in the top menu
-3. Click **Create new trip**
+3. Click **Plan a New Trip**
 4. Describe your trip - you can type naturally like "5 days in Paris next month"
 5. The AI will detect your destination and suggest dates
 6. Click **Create trip** to start planning
@@ -32,9 +32,9 @@ The map shows places you might want to visit. Click any marker to see details ab
 
 ## Using the Shortlist
 
-The Shortlist is for places you're considering but haven't added to your itinerary yet.
+The Shortlist is for places you're considering visiting but haven't added to your itinerary yet.
 
-1. Click **Trip** in the navigation
+1. Click **Trip** in the top menu
 2. Scroll down to see your Shortlist
 3. Drag places from the Shortlist to a day when you're ready
 
