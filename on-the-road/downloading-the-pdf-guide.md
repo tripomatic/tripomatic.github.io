@@ -36,6 +36,6 @@ You can also export your trip as:
 - **GPX** - For GPS devices and navigation apps
 - **KML** - For Google Earth and other mapping tools
 
-Export requires Tripomatic Premium.
+Export requires Tripomatic Premium. 
 
 ![How to download PDF guide](/assets/tripomatic-26/trip-menu-with-trip-sharing.webp)
