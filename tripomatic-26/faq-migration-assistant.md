@@ -18,5 +18,8 @@ From the Migration Assistant, you can:
 - **Migrate Favorites** - Transfer only your favorites
 - **Migrate New Trips** - Transfer only trips that haven't been transferred yet
 - **Transfer individual trips** - Select specific trips to transfer one by one
+- **Re-transfer individual trips** - Select specific trips to re-tranfser
+
+<br>
 
 ![Tripomatic Migration Assistent](/assets/tripomatic-26/migration-assistant.webp)
