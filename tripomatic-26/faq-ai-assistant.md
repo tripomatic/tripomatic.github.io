@@ -13,10 +13,10 @@ The AI assistant in Tripomatic 26 helps you plan your trips with intelligent sug
 
 ### Subscription Required
 
-The AI assistant requires an active Tripomatic Premium subscription:
+Access to the AI assistant is available with an active **Tripomatic Premium yearly subscription**, which includes all premium features.
 
-- **Monthly or yearly subscription** - Full access to the AI assistant and all premium features
+If you purchased a lifetime Premium version before Tripomatic 26, it still gives you access to non-AI premium features. To use the AI features, you need to subscribe to the **AI Upgrade**.
 
-If you have a lifetime Premium purchase from before Tripomatic 26, you'll need to upgrade to a subscription to access AI features. Your lifetime purchase continues to work for non-AI premium features, but AI capabilities require an active subscription.
+<br>
 
 ![Tripomatic AI Assistent](/assets/tripomatic-26/AI-assistant.webp)
