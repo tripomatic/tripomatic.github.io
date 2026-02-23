@@ -11,11 +11,9 @@ The Premium purchase screen appears automatically when you try to use a premium 
 - Using the AI assistant
 - Accessing premium map layers
 
-You can choose between monthly or yearly subscription plans.
-
 ## On the Website
 
-Monthly or yearly subscriptions can also be purchased at [maps.tripomatic.com](https://maps.tripomatic.com). The Premium dialog will appear when you attempt to use a premium feature.
+Subscription can also be purchased at [maps.tripomatic.com](https://maps.tripomatic.com). The Premium dialog will appear when you attempt to use a premium feature.
 
 ## Restoring a Previous Purchase
 
