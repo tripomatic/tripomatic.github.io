@@ -10,4 +10,4 @@ The previous version of Tripomatic (the "old app") is still available for a limi
 
 **No reverse import.** There is no way to import data from Tripomatic 26 back to the legacy version.
 
-If you made changes in the legacy version and want to bring them to Tripomatic 26, you will need to transfer the data manually using the [Migration Assistant]({% link tripomatic-26/faq-migration-assistant.md %}). See [What if I made changes in the old app after transferring?]({% link tripomatic-26/faq-re-transfer.md %}) for detailed instructions.
+If you made changes in the legacy version and want to bring them to Tripomatic 26, you will need to transfer the data manually using the [Migration Assistant]({% link tripomatic-26/faq-migration-assistant.md %}).
