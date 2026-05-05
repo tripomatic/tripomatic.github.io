@@ -2,7 +2,7 @@
 title: What If I Made Changes in the Old App After Transferring?
 ---
 
-You can transfer trips from the legacy version to Tripomatic 26 using the [Migration Assistant]({% link tripomatic-26/faq-migration-assistant.md %}).
+You can transfer trips from your previous Tripomatic data to Tripomatic 26 using the [Migration Assistant]({% link tripomatic-26/faq-migration-assistant.md %}).
 
 ### Important: Only New Trips Can Be Transferred
 
@@ -19,6 +19,6 @@ The Migration Assistant only allows you to transfer trips that **do not already 
 
 > **⚠️ Caution: Deletion is Irreversible**
 >
-> Before deleting a trip from Tripomatic 26, make sure you are deleting the correct trip. Trip deletion cannot be undone. If you have made any changes to the trip in Tripomatic 26 that you want to keep, those changes will be lost when you delete the trip and re-transfer it from the legacy version.
+> Before deleting a trip from Tripomatic 26, make sure you are deleting the correct trip. Trip deletion cannot be undone. If you have made any changes to the trip in Tripomatic 26 that you want to keep, those changes will be lost when you delete the trip and re-transfer it from your old data.
 
 ![Tripomatic Migration Assistent](/assets/tripomatic-26/migration-assistant.webp)

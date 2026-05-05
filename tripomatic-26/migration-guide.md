@@ -50,7 +50,7 @@ The Migration Assistant allows you to transfer individual trips:
 
 ### Re-transferring Data
 
-If you made changes on the legacy website and want to transfer them to the new version, open the Migration Assistant, find your trip, and click the checkmark icon. This will re-migrate the trip and update it with your latest changes.
+If a trip was already transferred but you want to pull in the latest version of it from your old data, open the Migration Assistant, find the trip, and click the checkmark icon. This will re-migrate the trip and update it with the latest data from the previous version.
 
 ### Important Notes
 
