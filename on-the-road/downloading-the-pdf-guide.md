@@ -20,6 +20,10 @@ Premium subscribers can export their trips as PDF guides to use offline or print
 3. Select **Export trip**
 4. Select **Export as PDF**
 5. Tap **Preview** to view or **Download PDF** to save
+   
+
+[![How to Download Your Trip as a PDF on Tripomatic](https://img.youtube.com/vi/xO0-NxKDovg/maxresdefault.jpg)](https://youtu.be/xO0-NxKDovg)
+
 
 ## What's Included
 
