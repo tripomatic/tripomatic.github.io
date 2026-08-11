@@ -1,5 +1,5 @@
 ---
-title: How Do I Download Maps for My Trip?
+title: How Do I Download Offline Maps for My Trip?
 ---
 
 In Tripomatic 26, offline maps work differently than before. Instead of downloading entire regions, you download maps for your specific trip.
