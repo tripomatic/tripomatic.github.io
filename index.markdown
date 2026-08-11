@@ -20,7 +20,7 @@ Tripomatic 26 was launched on February 4th, 2026. It is available at [maps.tripo
 - [Is my premium still valid?]({% link tripomatic-26/faq-premium.md %})
 
 ### General Questions
-- [How do I download maps for my trip?]({% link tripomatic-26/faq-offline-maps.md %})
+- [How do I download offline maps for my trip?]({% link tripomatic-26/faq-offline-maps.md %})
 - [Why isn't public transit available in my area?]({% link tripomatic-26/faq-public-transit.md %})
 - [What is the AI assistant and how do I use it?]({% link tripomatic-26/faq-ai-assistant.md %})
 - [Do my custom places transfer?]({% link tripomatic-26/faq-custom-places.md %})
