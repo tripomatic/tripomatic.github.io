@@ -1,0 +1,63 @@
+/**
+ * Every URL of the old Jekyll site (2024–2026) and where it now lives.
+ * Keys are exact old paths; values are new site paths or absolute URLs.
+ * The build fails if an internal target does not exist.
+ */
+const countryGuides = Object.fromEntries(
+  ['cyprus', 'denmark', 'estonia', 'finland', 'france', 'germany', 'greece', 'hungary', 'japan', 'latvia', 'lithuania', 'sweden'].map(
+    (country) => [`/guides/${country}-travel-guide.html`, `https://tripomatic.com/en/destinations/${country}`],
+  ),
+);
+
+export const REDIRECTS = {
+  '/about/': '/',
+  '/about.html': '/',
+  '/didnt-you-find-a-solution-or-an-answer/contact-sygic-travel-support-team.html': '/contact/',
+  '/editing-your-trip/adding-visiting-times-and-notes.html': '/planning/times-and-notes/',
+  '/editing-your-trip/changing-the-name-dates-of-your-trip.html': '/planning/trip-dates-and-name/',
+  '/editing-your-trip/working-with-the-itinerary.html': '/planning/add-places/',
+  '/general-questions/can-i-import-files-into-sygic-travel.html': '/sharing-and-export/export-trip/',
+  '/general-questions/how-can-i-add-my-flight-information-to-my-trip.html': '/planning/transport/',
+  '/general-questions/how-can-i-add-my-own-place-to-sygic-travel.html': '/planning/custom-places/',
+  '/general-questions/how-can-i-change-my-avatar.html': '/account/change-email-or-password/',
+  '/general-questions/how-can-i-change-my-email-address-or-password.html': '/account/change-email-or-password/',
+  '/general-questions/how-do-i-synchronize-my-trip-across-devices.html': '/account/sign-in-and-sync/',
+  '/general-questions/how-to-change-the-language-currency-and-units-in-the-app.html': '/account/language-currency-units/',
+  ...countryGuides,
+  '/help-us-improve-content-around-you/crowdsourcing.html': '/planning/custom-places/',
+  '/hotels-and-tours/working-with-hotels.html': '/planning/hotels/',
+  '/hotels-and-tours/working-with-tours.html': '/planning/tours-and-activities/',
+  '/how-to-plan-a-trip/planning-a-trip-on-the-website.html': '/getting-started/plan-your-first-trip/',
+  '/how-to-plan-a-trip/planning-a-trip-in-the-android-app.html': '/getting-started/plan-your-first-trip/',
+  '/how-to-plan-a-trip/planning-a-trip-in-the-ios-app.html': '/getting-started/plan-your-first-trip/',
+  '/on-the-road/can-i-send-a-route-to-sygic-gps-navigation.html': '/on-the-road/navigation/',
+  '/on-the-road/downloading-the-pdf-guide.html': '/sharing-and-export/export-trip/',
+  '/on-the-road/how-can-i-change-my-preferred-navigation-app-in-sygic-travel.html': '/on-the-road/navigation/',
+  '/on-the-road/how-to-locate-myself-on-the-map-using-gps.html': '/on-the-road/navigation/',
+  '/on-the-road/how-to-navigate-myself-to-a-place.html': '/on-the-road/navigation/',
+  '/on-the-road/how-to-see-my-itinerary-for-the-day-on-the-map.html': '/on-the-road/navigation/',
+  '/rebranding/account-migration-faq.html': '/account/old-sygic-travel-account/',
+  '/rebranding/migrate-sygic-travel-account.html': '/account/old-sygic-travel-account/',
+  '/rebranding/migrating-facebook-account.html': '/account/old-sygic-travel-account/',
+  '/shared-planning/how-does-shared-planning-work.html': '/sharing-and-export/share-a-trip/',
+  '/sygic-travel-premium/can-i-use-sygic-travel-premium-on-all-my-devices.html': '/premium/free-vs-premium/',
+  '/sygic-travel-premium/family-sharing.html': '/premium/free-vs-premium/',
+  '/sygic-travel-premium/how-can-i-manage-my-subscription.html': '/premium/cancel-subscription/',
+  '/sygic-travel-premium/how-can-i-restore-my-sygic-travel-premium-purchase.html': '/premium/restore-purchases/',
+  '/sygic-travel-premium/how-to-buy-sygic-travel-premium.html': '/premium/buy-premium/',
+  '/sygic-travel-premium/what-advantages-does-sygic-travel-premium-give-me.html': '/premium/free-vs-premium/',
+  '/tripomatic-26/': '/account/coming-from-the-old-app/',
+  '/tripomatic-26/index.html': '/account/coming-from-the-old-app/',
+  '/tripomatic-26/faq-ai-assistant.html': '/ai/ai-assistant/',
+  '/tripomatic-26/faq-collaborators.html': '/sharing-and-export/share-a-trip/',
+  '/tripomatic-26/faq-custom-places.html': '/account/old-sygic-travel-account/',
+  '/tripomatic-26/faq-go-back.html': '/account/coming-from-the-old-app/',
+  '/tripomatic-26/faq-migration-assistant.html': '/account/old-sygic-travel-account/',
+  '/tripomatic-26/faq-offline-maps.html': '/on-the-road/offline-maps/',
+  '/tripomatic-26/faq-premium.html': '/premium/lifetime-and-ai-upgrade/',
+  '/tripomatic-26/faq-public-transit.html': '/planning/transport/',
+  '/tripomatic-26/faq-re-transfer.html': '/account/old-sygic-travel-account/',
+  '/tripomatic-26/feature-changes.html': '/account/coming-from-the-old-app/',
+  '/tripomatic-26/migration-guide.html': '/account/old-sygic-travel-account/',
+  '/tripomatic-26/whats-new.html': '/account/coming-from-the-old-app/',
+};

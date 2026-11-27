@@ -1,0 +1,108 @@
+---
+interface Props {
+  /** Smaller field for the header. */
+  compact?: boolean;
+}
+const { compact = false } = Astro.props;
+const id = compact ? 'search-compact' : 'search-hero';
+---
+
+<div class="support-search relative" data-search>
+  <label for={id} class="sr-only">Search help articles</label>
+  <svg class={`pointer-events-none absolute top-1/2 -translate-y-1/2 text-muted ${compact ? 'left-3 h-4 w-4' : 'left-5 h-5 w-5'}`} viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="M21 21l-4.3-4.3"></path></svg>
+  <input
+    id={id}
+    type="search"
+    autocomplete="off"
+    placeholder={compact ? 'Search help' : 'Search, e.g. “offline maps” or “cancel subscription”'}
+    class={`w-full rounded-full border border-border bg-white text-heading shadow-sm outline-none placeholder:text-muted focus:border-accent ${compact ? 'h-10 pl-9 pr-4 text-sm' : 'h-14 pl-13 pr-5 text-[17px]'}`}
+    aria-controls={`${id}-results`}
+    aria-expanded="false"
+    role="combobox"
+  />
+  <ul
+    id={`${id}-results`}
+    role="listbox"
+    class="absolute left-0 right-0 top-full z-50 mt-2 hidden max-h-[70vh] overflow-y-auto rounded-2xl border border-border bg-white p-2 text-left shadow-xl"
+  ></ul>
+</div>
+
+<script>
+  type Entry = { t: string; d: string; u: string; s: string; k: string };
+  let index: Entry[] | null = null;
+
+  async function load(): Promise<Entry[]> {
+    if (!index) index = (await (await fetch('/search-index.json')).json()) as Entry[];
+    return index;
+  }
+
+  function score(entry: Entry, terms: string[]): number {
+    const title = entry.t.toLowerCase();
+    const body = `${entry.d} ${entry.k}`.toLowerCase();
+    let total = 0;
+    for (const term of terms) {
+      if (title.includes(term)) total += 3;
+      else if (body.includes(term)) total += 1;
+      else return 0;
+    }
+    return total;
+  }
+
+  function escape(text: string): string {
+    return text.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]!);
+  }
+
+  for (const root of document.querySelectorAll<HTMLElement>('[data-search]')) {
+    const input = root.querySelector('input')!;
+    const list = root.querySelector('ul')!;
+    let active = -1;
+
+    const close = () => {
+      list.classList.add('hidden');
+      input.setAttribute('aria-expanded', 'false');
+      active = -1;
+    };
+
+    const render = async () => {
+      const terms = input.value.toLowerCase().split(/\s+/).filter((t) => t.length > 1);
+      if (terms.length === 0) return close();
+      const results = (await load())
+        .map((e) => ({ e, s: score(e, terms) }))
+        .filter((r) => r.s > 0)
+        .sort((a, b) => b.s - a.s)
+        .slice(0, 8);
+      list.innerHTML = results.length
+        ? results
+            .map(
+              ({ e }, i) =>
+                `<li role="option" id="${input.id}-opt-${i}"><a href="${e.u}" class="block rounded-xl px-3 py-2.5 no-underline hover:bg-bg-gray"><span class="block text-[11px] font-bold uppercase tracking-wide text-muted">${escape(e.s)}</span><span class="block font-bold text-heading">${escape(e.t)}</span><span class="block text-sm text-text">${escape(e.d)}</span></a></li>`,
+            )
+            .join('')
+        : `<li class="px-3 py-3 text-sm">No articles match. Try fewer words, or <a href="/contact/">contact support</a>.</li>`;
+      list.classList.remove('hidden');
+      input.setAttribute('aria-expanded', 'true');
+      active = -1;
+    };
+
+    input.addEventListener('focus', () => void load());
+    input.addEventListener('input', () => void render());
+    input.addEventListener('keydown', (event) => {
+      const links = [...list.querySelectorAll<HTMLAnchorElement>('a')];
+      if (event.key === 'Escape') close();
+      if (!links.length) return;
+      if (event.key === 'ArrowDown' || event.key === 'ArrowUp') {
+        event.preventDefault();
+        active = (active + (event.key === 'ArrowDown' ? 1 : -1) + links.length) % links.length;
+        links.forEach((l, i) => l.classList.toggle('bg-bg-gray', i === active));
+        input.setAttribute('aria-activedescendant', `${input.id}-opt-${active}`);
+      }
+      if (event.key === 'Enter') {
+        event.preventDefault();
+        (links[active] ?? links[0]).click();
+      }
+    });
+    document.addEventListener('click', (event) => {
+      if (!root.contains(event.target as Node)) close();
+    });
+  }
+</script>

@@ -1,0 +1,56 @@
+---
+import Base from '../../layouts/Base.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import ArticleLink from '../../components/ArticleLink.astro';
+import AppBadges from '../../components/AppBadges.astro';
+import { SECTIONS, type Section } from '../../lib/sections';
+import { sectionArticles, articlePath, type Article } from '../../lib/articles';
+import { breadcrumbs } from '../../lib/jsonld';
+
+export async function getStaticPaths() {
+  return Promise.all(
+    SECTIONS.map(async (section) => ({
+      params: { section: section.id },
+      props: { section, articles: await sectionArticles(section.id) },
+    })),
+  );
+}
+
+interface Props {
+  section: Section;
+  articles: Article[];
+}
+const { section, articles } = Astro.props;
+const trail = [{ name: section.title, href: `/${section.id}/` }];
+const list = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: section.title,
+  description: section.description,
+  hasPart: articles.map((a) => ({ '@type': 'TechArticle', headline: a.data.title, url: `https://support.tripomatic.com${articlePath(a)}` })),
+};
+---
+
+<Base title={section.title} description={section.description} jsonLd={[breadcrumbs(trail), list]}>
+  <div class="mx-auto max-w-4xl px-4 pt-8 sm:px-6">
+    <Breadcrumbs items={trail} />
+    <div class="mt-8 flex items-start gap-5">
+      <span class="flex h-14 w-14 shrink-0 items-center justify-center rounded-2xl bg-note text-navy">
+        <svg class="h-7 w-7" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d={section.icon}></path></svg>
+      </span>
+      <div>
+        <h1 class="font-display text-[34px] leading-tight text-heading sm:text-[42px]">{section.title}</h1>
+        <p class="mt-2 text-lg">{section.description}</p>
+      </div>
+    </div>
+    {section.app === 'audio-guides' && (
+      <div class="mt-8 rounded-2xl border border-border p-6">
+        <p>Tripomatic Audio Guides is a separate app from the Tripomatic trip planner. Download it free:</p>
+        <div class="mt-4"><AppBadges app="audio-guides" withWeb /></div>
+      </div>
+    )}
+    <div class="mt-10 divide-y divide-border rounded-2xl border border-border p-2">
+      {articles.map((a) => <ArticleLink article={a} withDescription />)}
+    </div>
+  </div>
+</Base>

@@ -1,0 +1,31 @@
+---
+import { featureUrl, FEATURE_NAMES, type FeatureSlug, AUDIO_GUIDES_URL } from '../lib/links';
+import AppBadges from './AppBadges.astro';
+import type { AppId } from '../lib/sections';
+
+interface Props {
+  /** Feature page on tripomatic.com this article belongs to. */
+  feature?: FeatureSlug;
+  /** App the article is about. */
+  app: AppId;
+}
+const { feature, app } = Astro.props;
+const href = app === 'audio-guides' ? AUDIO_GUIDES_URL : feature ? featureUrl(feature) : 'https://tripomatic.com/';
+const name = app === 'audio-guides' ? 'Tripomatic Audio Guides' : feature ? FEATURE_NAMES[feature] : 'Tripomatic';
+---
+
+<aside class="mt-14 overflow-hidden rounded-3xl bg-gradient-to-br from-navy to-[#0b3a63] p-7 text-white sm:p-9">
+  <p class="text-sm font-bold uppercase tracking-wider text-white/60">{app === 'audio-guides' ? 'The app' : 'The feature'}</p>
+  <p class="mt-2 font-display text-[26px] leading-tight">{name}</p>
+  <p class="mt-3 max-w-xl text-white/80">
+    {app === 'audio-guides'
+      ? 'Walking tours that play on their own as you reach each stop. Free to download for iPhone and Android.'
+      : 'See what it does, with examples, on tripomatic.com. Tripomatic is free on iPhone, Android and the web.'}
+  </p>
+  <div class="mt-6 flex flex-wrap items-center gap-4">
+    <a href={href} class="rounded-full bg-white px-5 py-2.5 text-sm font-bold text-navy no-underline hover:bg-white/90 hover:text-navy">
+      Learn more about {name.toLowerCase().startsWith('tripomatic') ? name : name.toLowerCase()}
+    </a>
+  </div>
+  <div class="mt-6"><AppBadges app={app} /></div>
+</aside>

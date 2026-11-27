@@ -1,0 +1,46 @@
+---
+import { SECTIONS } from '../lib/sections';
+import { SITE_HOME, AUDIO_GUIDES_URL, PRICING_URL, CONNECT_AI_URL, SUPPORT_EMAIL, STORES } from '../lib/links';
+const year = new Date().getFullYear();
+---
+
+<footer class="mt-24 bg-navy text-[15px] text-white/75">
+  <div class="mx-auto grid max-w-6xl gap-10 px-4 py-14 sm:grid-cols-2 sm:px-6 lg:grid-cols-4">
+    <div>
+      <p class="font-display text-xl text-white">Tripomatic Help Center</p>
+      <p class="mt-3">Answers about the Tripomatic trip planner and Tripomatic Audio Guides.</p>
+      <p class="mt-3">Still stuck? <a href={`mailto:${SUPPORT_EMAIL}`} class="text-white">{SUPPORT_EMAIL}</a></p>
+    </div>
+    <nav aria-label="Help topics">
+      <p class="font-bold text-white">Help topics</p>
+      <ul class="mt-3 space-y-1.5">
+        {SECTIONS.map((s) => <li><a href={`/${s.id}/`} class="text-white/75 no-underline hover:text-white">{s.title}</a></li>)}
+      </ul>
+    </nav>
+    <nav aria-label="Tripomatic">
+      <p class="font-bold text-white">Tripomatic</p>
+      <ul class="mt-3 space-y-1.5">
+        <li><a href={SITE_HOME} class="text-white/75 no-underline hover:text-white">tripomatic.com</a></li>
+        <li><a href={STORES.tripomatic.web} class="text-white/75 no-underline hover:text-white">Web planner</a></li>
+        <li><a href={PRICING_URL} class="text-white/75 no-underline hover:text-white">Pricing</a></li>
+        <li><a href={CONNECT_AI_URL} class="text-white/75 no-underline hover:text-white">Connect your AI</a></li>
+        <li><a href={AUDIO_GUIDES_URL} class="text-white/75 no-underline hover:text-white">Audio Guides</a></li>
+      </ul>
+    </nav>
+    <nav aria-label="For AI agents">
+      <p class="font-bold text-white">For AI agents</p>
+      <ul class="mt-3 space-y-1.5">
+        <li><a href="/llms.txt" class="text-white/75 no-underline hover:text-white">llms.txt</a></li>
+        <li><a href="/llms-full.txt" class="text-white/75 no-underline hover:text-white">llms-full.txt</a></li>
+        <li><a href="/sitemap.xml" class="text-white/75 no-underline hover:text-white">Sitemap</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="border-t border-white/10">
+    <div class="mx-auto flex max-w-6xl flex-wrap gap-x-6 gap-y-2 px-4 py-5 text-sm sm:px-6">
+      <span>© {year} Tripomatic</span>
+      <a href="https://tripomatic.com/privacy-policy" class="text-white/60 no-underline hover:text-white">Privacy policy</a>
+      <a href="https://tripomatic.com/terms-of-use" class="text-white/60 no-underline hover:text-white">Terms of use</a>
+    </div>
+  </div>
+</footer>

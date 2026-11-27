@@ -1,0 +1,27 @@
+---
+import { STORES } from '../lib/links';
+import type { AppId } from '../lib/sections';
+
+interface Props {
+  /** Which app's store listings to show. */
+  app: AppId;
+  /** Also show a link to the web version. */
+  withWeb?: boolean;
+}
+const { app, withWeb = false } = Astro.props;
+const store = STORES[app];
+---
+
+<div class="flex flex-wrap items-center gap-3">
+  <a href={store.ios} rel="noopener" aria-label={`Download ${store.name} on the App Store`}>
+    <img src="/badge-app-store.png" alt="Download on the App Store" width="135" height="40" class="h-10 w-auto" loading="lazy" />
+  </a>
+  <a href={store.android} rel="noopener" aria-label={`Get ${store.name} on Google Play`}>
+    <img src="/badge-google-play.png" alt="Get it on Google Play" width="135" height="40" class="h-10 w-auto" loading="lazy" />
+  </a>
+  {withWeb && (
+    <a href={store.web} class="inline-flex h-10 items-center rounded-lg border border-navy px-4 text-sm font-bold text-navy no-underline hover:bg-navy hover:text-white">
+      {app === 'tripomatic' ? 'Open in browser' : 'See the tours'}
+    </a>
+  )}
+</div>

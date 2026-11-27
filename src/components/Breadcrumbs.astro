@@ -1,0 +1,19 @@
+---
+interface Props {
+  /** Trail after "Help Center"; the last item is the current page and is not linked. */
+  items: { name: string; href: string }[];
+}
+const { items } = Astro.props;
+---
+
+<nav aria-label="Breadcrumb" class="text-sm text-muted">
+  <ol class="flex flex-wrap items-center gap-1.5">
+    <li><a href="/" class="text-muted no-underline hover:text-heading">Help Center</a></li>
+    {items.map((item, i) => (
+      <li class="flex items-center gap-1.5">
+        <span aria-hidden="true">›</span>
+        {i === items.length - 1 ? <span aria-current="page" class="text-heading">{item.name}</span> : <a href={item.href} class="text-muted no-underline hover:text-heading">{item.name}</a>}
+      </li>
+    ))}
+  </ol>
+</nav>

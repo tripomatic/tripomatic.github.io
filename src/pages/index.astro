@@ -1,0 +1,98 @@
+---
+import Base from '../layouts/Base.astro';
+import Search from '../components/Search.astro';
+import ArticleLink from '../components/ArticleLink.astro';
+import AppBadges from '../components/AppBadges.astro';
+import { SECTIONS } from '../lib/sections';
+import { allArticles, articlePath } from '../lib/articles';
+import { appEntity, faqLd, ORGANIZATION } from '../lib/jsonld';
+import { SUPPORT_EMAIL, WEB_APP, AUDIO_GUIDES_URL } from '../lib/links';
+
+const articles = await allArticles();
+const popular = articles.filter((a) => a.data.popular);
+const plannerSections = SECTIONS.filter((s) => s.app === 'tripomatic');
+const site = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'Tripomatic Help Center',
+  url: 'https://support.tripomatic.com/',
+  publisher: ORGANIZATION,
+  about: [appEntity('tripomatic'), appEntity('audio-guides')],
+};
+const faq = faqLd(popular.map((a) => ({ q: a.data.title, a: a.data.description })));
+---
+
+<Base
+  title="Tripomatic Help Center"
+  description="Help for the Tripomatic trip planner and Tripomatic Audio Guides: planning trips, offline maps, AI features, Premium, accounts and audio walking tours."
+  jsonLd={[site, faq]}
+>
+  <section class="relative overflow-hidden bg-gradient-to-b from-navy to-[#0b3a63] text-white">
+    <div class="absolute inset-0 opacity-[0.07]" style="background-image: radial-gradient(circle at 1px 1px, white 1px, transparent 0); background-size: 22px 22px;" aria-hidden="true"></div>
+    <div class="relative mx-auto max-w-3xl px-4 pb-20 pt-16 text-center sm:px-6 sm:pt-20">
+      <h1 class="font-display text-[38px] leading-tight sm:text-[52px]">How can we help?</h1>
+      <p class="mx-auto mt-4 max-w-xl text-lg text-white/80">Answers for the Tripomatic trip planner and Tripomatic Audio Guides, checked against the current apps.</p>
+      <div class="mx-auto mt-9 max-w-2xl"><Search /></div>
+    </div>
+  </section>
+
+  <div class="mx-auto max-w-6xl px-4 sm:px-6">
+    <section class="-mt-10 grid gap-5 md:grid-cols-2" aria-label="Apps">
+      <div class="relative rounded-3xl border border-border bg-white p-7 shadow-lg shadow-navy/5">
+        <img src="/logo_tripomatic_mark.svg" alt="" width="40" height="40" class="h-10 w-10" />
+        <h2 class="mt-4 text-xl font-bold text-heading">Tripomatic trip planner</h2>
+        <p class="mt-2">Plan day-by-day itineraries on a map, with AI day plans, offline maps, travel alerts and shared trips. iPhone, Android and the <a href={WEB_APP}>web</a>.</p>
+        <div class="mt-5"><AppBadges app="tripomatic" /></div>
+      </div>
+      <div class="relative rounded-3xl border border-border bg-white p-7 shadow-lg shadow-navy/5">
+        <span class="flex h-10 w-10 items-center justify-center rounded-xl bg-navy text-white">
+          <svg class="h-6 w-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M3 18v-6a9 9 0 0 1 18 0v6M21 19a2 2 0 0 1-2 2h-1v-6h3zM3 19a2 2 0 0 0 2 2h1v-6H3z"></path></svg>
+        </span>
+        <h2 class="mt-4 text-xl font-bold text-heading">Tripomatic Audio Guides <span class="ml-1 rounded-full bg-[#e5484d] px-2 py-0.5 align-middle text-[11px] font-bold uppercase text-white">New</span></h2>
+        <p class="mt-2">Self-guided audio walking tours that play on their own as you reach each stop. Works offline. <a href="/audio-guides/">Audio Guides help</a> · <a href={AUDIO_GUIDES_URL}>Browse tours</a></p>
+        <div class="mt-5"><AppBadges app="audio-guides" /></div>
+      </div>
+    </section>
+
+    {popular.length > 0 && (
+      <section class="mt-16" aria-labelledby="popular">
+        <h2 id="popular" class="font-display text-[30px] text-heading">Popular questions</h2>
+        <div class="mt-5 grid gap-x-6 sm:grid-cols-2">
+          {popular.map((a) => <ArticleLink article={a} />)}
+        </div>
+      </section>
+    )}
+
+    <section class="mt-16" aria-labelledby="topics">
+      <h2 id="topics" class="font-display text-[30px] text-heading">Browse by topic</h2>
+      <div class="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        {SECTIONS.map((section) => {
+          const items = articles.filter((a) => a.data.section === section.id);
+          return (
+            <div class="flex flex-col rounded-3xl border border-border p-6 transition hover:border-accent/50 hover:shadow-md">
+              <a href={`/${section.id}/`} class="flex items-center gap-3 no-underline">
+                <span class={`flex h-11 w-11 shrink-0 items-center justify-center rounded-xl ${section.app === 'audio-guides' ? 'bg-navy text-white' : 'bg-note text-navy'}`}>
+                  <svg class="h-6 w-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d={section.icon}></path></svg>
+                </span>
+                <h3 class="text-lg font-bold leading-snug text-heading">{section.title}</h3>
+              </a>
+              <p class="mt-3 text-[15px]">{section.description}</p>
+              <ul class="mt-4 space-y-1.5 text-[15px]">
+                {items.slice(0, 4).map((a) => <li><a href={articlePath(a)} class="no-underline hover:underline">{a.data.title}</a></li>)}
+              </ul>
+              <a href={`/${section.id}/`} class="mt-auto pt-4 text-sm font-bold no-underline">All {items.length} articles →</a>
+            </div>
+          );
+        })}
+      </div>
+    </section>
+
+    <section class="mt-16 grid items-center gap-6 rounded-3xl bg-bg-gray p-8 sm:grid-cols-[1fr_auto]">
+      <div>
+        <h2 class="text-xl font-bold text-heading">Didn't find your answer?</h2>
+        <p class="mt-1">Email us and we will help. Mention which app, which device, and the email you sign in with.</p>
+      </div>
+      <a href="/contact/" class="justify-self-start rounded-full bg-navy px-6 py-3 font-bold text-white no-underline hover:bg-heading hover:text-white">Contact support</a>
+    </section>
+  </div>
+</Base>

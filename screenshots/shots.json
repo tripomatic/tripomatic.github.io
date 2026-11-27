@@ -1,0 +1,5 @@
+{
+  "$comment": "Web-app screenshots for help articles. Each shot opens `url` on maps.tripomatic.com (signed in with the demo account saved by --login), waits for `waitFor`, optionally clicks through `steps`, and writes a PNG to `out` (relative to the repo). Phone screenshots come from the iOS Simulator instead; see docs/release-review.md.",
+  "viewport": { "width": 1440, "height": 900 },
+  "shots": []
+}

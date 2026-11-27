@@ -1,0 +1,145 @@
+@import "tailwindcss";
+
+/* Brand tokens shared with tripomatic.com (web/src/styles/global.css). */
+@theme {
+  --color-text: #4a5163;
+  --color-muted: #646d82;
+  --color-heading: #040e28;
+  --color-navy: #001d38;
+  --color-link: #0077b3;
+  --color-link-hover: #005a87;
+  --color-accent: #0099dd;
+  --color-bg: #fff;
+  --color-bg-gray: #f6f8fb;
+  --color-border: #e3e7ee;
+  --color-note: #eef7fd;
+  --color-warn: #fff7e6;
+
+  --font-body: 'Raleway', 'Helvetica Neue', Arial, sans-serif;
+  --font-display: 'Playfair Display', Georgia, serif;
+}
+
+@layer base {
+  html {
+    scroll-padding-top: 5rem;
+  }
+
+  body {
+    @apply bg-bg font-body text-base leading-relaxed text-text antialiased;
+  }
+
+  ::selection {
+    @apply bg-accent text-white;
+  }
+
+  a {
+    @apply text-link underline decoration-1 underline-offset-2;
+  }
+
+  a:hover {
+    @apply text-link-hover;
+  }
+
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-accent;
+  }
+}
+
+/* Article body typography: Markdown output has no classes. */
+.prose {
+  @apply text-[17px] leading-[1.75];
+}
+
+.prose > * + * {
+  @apply mt-5;
+}
+
+.prose h2 {
+  @apply mt-12 mb-4 font-display text-[28px] leading-tight text-heading;
+}
+
+.prose h3 {
+  @apply mt-9 mb-3 text-lg font-bold text-heading;
+}
+
+.prose h2 + *,
+.prose h3 + * {
+  @apply mt-0;
+}
+
+.prose strong {
+  @apply font-bold text-heading;
+}
+
+.prose ul {
+  @apply list-disc pl-6;
+}
+
+.prose ul > li + li {
+  @apply mt-2;
+}
+
+/* Numbered lists are how-to steps: big numbered markers on a rail. */
+.prose ol {
+  counter-reset: step;
+  @apply list-none pl-0;
+}
+
+.prose ol > li {
+  counter-increment: step;
+  @apply relative min-h-9 pl-12;
+}
+
+.prose ol > li + li {
+  @apply mt-4;
+}
+
+.prose ol > li::before {
+  content: counter(step);
+  @apply absolute left-0 top-0 flex h-8 w-8 items-center justify-center rounded-full bg-navy text-sm font-bold text-white;
+}
+
+.prose ol ol > li::before,
+.prose ul ol > li::before {
+  @apply h-6 w-6 bg-accent text-xs;
+}
+
+.prose blockquote {
+  @apply rounded-xl border-l-4 border-accent bg-note px-5 py-4 text-[16px];
+}
+
+.prose blockquote > * + * {
+  @apply mt-2;
+}
+
+.prose code {
+  @apply rounded bg-bg-gray px-1.5 py-0.5 text-[0.9em] text-heading;
+}
+
+.prose img,
+.prose video {
+  @apply mx-auto h-auto max-h-[520px] w-auto max-w-full rounded-2xl border border-border shadow-sm;
+}
+
+/* Phone screenshots are tall: keep them a readable size beside the text. */
+.prose img[alt*="(phone)"],
+.prose video[data-phone] {
+  @apply max-h-[620px] w-auto;
+}
+
+.prose table {
+  @apply block w-full overflow-x-auto border-collapse text-[15px];
+}
+
+.prose th,
+.prose td {
+  @apply border border-border px-3 py-2 text-left align-top;
+}
+
+.prose th {
+  @apply bg-bg-gray font-bold text-heading;
+}
+
+.prose kbd {
+  @apply rounded border border-border bg-bg-gray px-1.5 py-0.5 text-[0.85em] font-bold text-heading;
+}

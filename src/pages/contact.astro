@@ -1,0 +1,39 @@
+---
+import Base from '../layouts/Base.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { SUPPORT_EMAIL } from '../lib/links';
+import { breadcrumbs } from '../lib/jsonld';
+
+const trail = [{ name: 'Contact support', href: '/contact/' }];
+const contact = {
+  '@context': 'https://schema.org',
+  '@type': 'ContactPage',
+  name: 'Contact Tripomatic support',
+  url: 'https://support.tripomatic.com/contact/',
+  mainEntity: {
+    '@type': 'Organization',
+    name: 'Tripomatic',
+    contactPoint: { '@type': 'ContactPoint', contactType: 'customer support', email: SUPPORT_EMAIL, availableLanguage: ['English'] },
+  },
+};
+---
+
+<Base title="Contact support" description={`Contact Tripomatic support by email at ${SUPPORT_EMAIL}. Include the app, your device and the email you sign in with so we can help faster.`} jsonLd={[breadcrumbs(trail), contact]}>
+  <div class="mx-auto max-w-3xl px-4 pt-8 sm:px-6">
+    <Breadcrumbs items={trail} />
+    <h1 class="mt-6 font-display text-[38px] leading-tight text-heading">Contact support</h1>
+    <p class="mt-4 text-lg">Email <a href={`mailto:${SUPPORT_EMAIL}`} class="font-bold">{SUPPORT_EMAIL}</a>. The same address handles the Tripomatic trip planner and Tripomatic Audio Guides.</p>
+    <div class="prose mt-8">
+      <h2>What to include</h2>
+      <ul>
+        <li><strong>Which app</strong>: Tripomatic or Tripomatic Audio Guides.</li>
+        <li><strong>Your device</strong> and app version (iPhone, Android or web browser).</li>
+        <li><strong>The email you sign in with</strong>. If you have more than one account, list them all. Audio Guides has no accounts, so for a purchase question say which store you bought from.</li>
+        <li><strong>For a purchase</strong>: the store (App Store, Google Play or web) and the receipt or order number. Never send card details.</li>
+        <li><strong>For a bug</strong>: what you did, what you expected and what happened. A screenshot helps.</li>
+      </ul>
+      <h2>Refunds</h2>
+      <p>Purchases made in the App Store or Google Play are refunded by Apple or Google under their rules; we cannot issue those refunds ourselves. See <a href="/premium/cancel-subscription/">Cancel or manage your subscription</a> for links. For purchases made on the web, email us.</p>
+    </div>
+  </div>
+</Base>
